@@ -8,8 +8,8 @@ The origin of the concept of *sustainability* are remote and can be followed
 through the history of political philosophy [1], but in recent years, the term
 has become a *buzzword* with unclear meaning [1, 2].
 
-In 1987, in the UN's Brundtland Report estabilished the political framework for
-work in this field, and provided the following widely-accepted definition [3]:
+In 1987, in the UN's Brundtland Report established the political framework for
+work in this field, and provided the following widely-accepted definition [3, 8]:
 
 > "Sustainable development is development that meets the needs of the present
 > without compromising the ability of future generations to meet their own needs."
@@ -48,7 +48,7 @@ better and more sustainable future for all" [4]:
     for Sustainable Development. 
 
 ![Sustainable development
-goals](https://i.postimg.cc/m2sTqjsr/1280px-sustainable-development-goals.png)
+goals](https://i.postimg.cc/m2sTqjsr/1280px-sustainable-development-goals.png)\
 *The 17 Sustainable Development Goals defined by the UN [4].*
 
 To further clarify the Goals, the UN provided a list of *Targets* for each goal,
@@ -56,7 +56,7 @@ for a total of 169 [4]. While some of the Targets apply in practice only to
 developing countries, others are much more general. For example, consider the
 following one:
 
-> "Improve progressively, through 2030, global resource efficiency in consumption
+> "Improve progressively [...] global resource efficiency in consumption
 > and production and endeavour to decouple economic growth from environmental
 > degradation [...]."
 
@@ -78,8 +78,8 @@ sustainable development provided by the UN [3], highlights this duality:
 > resources of equal or greater value without degrading or endangering natural
 > biotic systems."
 
-Given this new definition, one deduces that policies based on perpetual state
-aid cannot considered sustainable development.
+Considering this new definition, one deduces that policies based on perpetual
+state aid cannot be regarded as sustainable development.
 
 
 What is computational sustainability?
@@ -100,7 +100,7 @@ number of experts in social, environmental and natural sciences [8].
 The following are some examples of work done in the field of computational
 sustainability.
 
-- An optimised rebalancing of the NYC bike sharing fleet using crowdsourcing
+- An optimised rebalancing of the NYC bike-sharing fleet using crowdsourcing
   [9].
 - The Dark Ecology project, which extracts biological information from weather
   data to determine the abundance and occurrence of bird species [10].
@@ -114,7 +114,7 @@ sustainability.
 Why Sardinia?
 -------------
 
-Sardinia is the second largest island in the Mediterranean Sea, It has a
+Sardinia is the second-largest island in the Mediterranean Sea, It has a
 population of about 1.6 million people, mostly belonging to the local ethnic
 group: the Sardinians. [13].
 
@@ -125,30 +125,29 @@ language is still spoken, especially in the northern part of the island.
 Sardinian is an autonomous Romance language that does not belong to the family
 of italic languages [14]. Other languages spoken in Sardinia are: Catalan,
 Gallurese, Sassarese, and Tabarkin. This diversity gives the island rich
-cultural traditions and a strong identity, but italianisation, which had its
+cultural traditions and a strong identity, but Italianisation, which had its
 peak during the fascist era of the 1920s, has – and still is –
 eroding this rich cultural texture [14, 15]. This is because the population
 associates the Italian language with promises of improvement of their economic
 conditions, at the cost of cultural alienation [15, 17]. This process of
 *cultural cringe* shows why the social and economic situation of Sardinia
 can be described with the tools provided by postcolonial studies [16, 17],
-similarly to what is done for Scotland [18].
+similarly to what has been done for Scotland [18].
 
 After the Second World War, Sardinia was one of the poorest regions in the whole
-of Europe. Starting from the 1950's, the induced industrialisation of the
+of Europe. Starting from the 1950s, the induced industrialisation of the
 *Renaissance plan* improved the economic conditions of the inhabitants,
-but the improvement slowed down at the beginning of the 1970's until it stopped
+but the improvement slowed down at the beginning of the 1970s until it stopped
 altogether [19]. Today, both the island's income per capita and its employment
-rate are well below the italian and the european averages [20].
+rate are well below the Italian and the European averages [20].
 
-The results of non-sustainable development policies in Sardinia are clearly
-visible. About half of the territory of Sardinia is threatened by the
-desertification process, and groundwater resources are quantitatively more than
-surface water. However, the concentration of nitrates in the water is higher
-than the allowed threshold according to EU regulations, mainly due to pollution
-[21]. Considering the state of degradation of the soil in the areas of
-now-closed mines, a report to the UN's Food And Agriculture Organization (FAO)
-makes a stark remark [22]:
+The results of non-sustainable development policies in Sardinia are visible.
+About half of the territory of Sardinia is threatened by the desertification
+process, and groundwater resources are quantitatively more than surface water.
+However, the concentration of nitrates in the water is higher than the allowed
+threshold according to EU regulations, mainly due to pollution [21]. Considering
+the state of degradation of the soil in the areas of now-closed mines, a report
+to the UN's Food And Agriculture Organization (FAO) makes a stark remark [22]:
 
 > "The soils involved, initially highly fertile, have been irreversibly
 > contaminated. The superficial horizons now show high values of lead, and
@@ -162,10 +161,10 @@ Non-sustainable tourism has also become an environmental problem [22]:
 > intrusions that contaminate aquifers and cause saline deposits on soils."
 
 Also, Sardinia hosts a large number of military sites, in particular weapon test
-ranges, which have been shown to be a danger both to the health of the people
-living nearby and the ecosystem [23, 24].
+ranges, which are a danger both to the health of the people living nearby and
+the ecosystem [23, 24].
 
-For all these reasons, Sardinia desperately needs sustainable development
+For all these reasons, Sardinia desperately needs actual sustainable development
 policies, before it's too late.
 
 ### References
