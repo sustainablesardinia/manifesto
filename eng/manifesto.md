@@ -6,7 +6,7 @@ A. What we do and why we do it
 
 1.  We create software to enable sustainable development in Sardinia because we
     believe technology has a role to play in address societal and environmental
-    challenges in pursuit of a sustainable future.
+    challenges.
 2.  We use the techniques of *data science* to improve the understanding of
     Sardinian environment, economics, and society because we think successful
     development can only come from good understanding.
@@ -28,8 +28,8 @@ A. What we do and why we do it
     * provides full-time jobs to people in the community,
     * keeps any financial revenue within the community.
 8.  We support other organisations and initiatives that align with what we do
-    because we want to increase their chances of success as well as ours.
-9.  We want to inform institutions, to make sure they have accurate data to take
+    because our success depends on their success too.
+9.  We inform institutions, to make sure they have accurate data to take
     the best decisions.
 10. We inform the public to make sure they are aware of our efforts and they're
     aware of what is happening in the community and environment. To do this, we
@@ -39,8 +39,8 @@ A. What we do and why we do it
 12. We produce rigorous work because we want it to matter. We want our impact to
     be as high as possible.
 12. We believe culture is a form of human-made resource, and we want to add
-    value to Sardinian culture by using and increasing the prestige of the
-    Sardinian language. For this reason:
+    value to Sardinian culture by using and increasing the prestige of Sardinian
+    languages. For this reason:
     * we use English and any local Sardinian language for internal written
       communication,
     * we use English, any local Sardinian language, and Italian for external
@@ -62,17 +62,17 @@ A. What we do and why we do it
 B. What we don't do and why we don't do it
 ---------------------------------------
 
-1. We don't do any work that doesn't involve computing or data analysis, because
-   we want to focus our efforts.
+1. We don't do any work that doesn't involve computing or data analysis at all,
+   because we want to focus our efforts.
 2. We don't carry out work under request for specific companies because we're
    not a company ourselves.
 3. We don't produce closed-source software because we want our work to be
-   useful to as many people as possible. However, we can use non-open-source
+   useful to as many people as possible. However, we can *use* non-open-source
    software as we see fit.
-4. We do not affiliate with political parties because we don't want doubts to be
-   cast on the rigour of our work.
+4. The initiative does not affiliate with political parties because we don't
+   want doubts to be cast on the rigour of our work.
 5. We do not develop military applications.
-6. We do not work on anything that supports perpetual state aid
+6. We do not work on anything that supports any form of perpetual state aid
    (*assistenzialismo*) because we don't think that is sustainable development.
 7. We don't develop anything that supports non-sustainable development in any of
    its forms.
