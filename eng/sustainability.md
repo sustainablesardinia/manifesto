@@ -236,7 +236,7 @@ Food And Agriculture Organization of the United Nations (FAO).\
 **[23]**  M. Cristaldi et a. (2013) *Toxic Emissions from a Military Test Site
 in the Territory of Sardinia, Italy*. In: International Journal of Environmental
 Research and Public Health, Vol. 10, Issue 4, pp. 1631-1646.
-DOI: https://doi.org/10.3390/ijerph10041631.\
+DOI: https://doi.org/10.3390/ijerph10041631. \
 **[24]**  M. Zucchetti (2005) *Environmental Pollution and Population Health
 Effects in the Quirra Area, Sardinia Island (Italy) and the Depleted Uranium
 Case*. In: Journal of Environmental Protection and Ecology, Vol. 4, Issue 1, pp.
