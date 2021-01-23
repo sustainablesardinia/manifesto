@@ -192,6 +192,9 @@ Italy. *International Journal of Environmental Research and Public Health*,
 Daly, H. (1990). Toward Some Operational Principles of Sustainable Development.
 In: *Ecological Economics*, (2), pp. 1-6.
 
+Danver, S. L. ed. (2015). *Native peoples of the world : an encyclopedia of
+groups, cultures, and contemporary issues*. London; New York: Routledge, p. 370.
+
 Du Pisani, J.A. (2006). Sustainable development – historical roots of the
 concept. *Environmental Sciences*, 3(2), pp. 83–96.
 
@@ -258,9 +261,6 @@ Schjerve, R. R. (1993). Sardinian: Italian. In: Posner, R. and Green, J. N.
 Spindler, E.A. (2013). The History of Sustainability The Origins and Effects of
 a Popular Concept. In: I. Jenkins and R. Schröder, eds., *Sustainability in
 Tourism*. Gabler, Wiesbaden: Springer, pp. 9–31.
-
-Danver, S. L. ed. (2015). *Native peoples of the world : an encyclopedia of
-groups, cultures, and contemporary issues*. London; New York: Routledge, p. 370.
 
 Sulis, G. (2012) Dalla resistenza anticoloniale alla condizione postcoloniale.
 La Sardegna di Sergio Atzeni. In: Marras, M., Pias, G. and Contarini, S. (eds.)
