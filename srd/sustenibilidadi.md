@@ -1,7 +1,7 @@
 Sustenibilidadi
 ==============
 
-Ita est su cresci sustinibili?
+Ita est su cresci sustenibili?
 --------------------------------
 
 Is orìginis de sa bidea de *sustenibilidadi* funt antigas e si podint sighiri po
@@ -24,32 +24,34 @@ unu mellus e prus benidori sustenìbili po totus" (United Nations, 2017):
 2.  Sculai su fàmini, sodigai sa seguresa de tenni cosa de papai e su mellus
     papai, e aprovai sa laurera sustenìbili.
 3.  Assigurai vidas sanas e aprovai saludi bona po totus, a calisisiat edadi.
-4.  Assigurai educatzioni de calidadi, inclusiva e giusta, e aprovai ocasionis
+4.  Assigurai educatzioni de calidadi, inclusiva, e giusta, e aprovai ocasionis
     po imparai po totus.
 5.  Aprovai sa paridadi intra is gèneris e arremaciai totu is fèminas e is
     piciocas.
 6.  Assigurai àcua e mara disponìbilis e de atendimentu sustenìbili po totus.
-7.  Ensure access to affordable, reliable, sustainable and modern energy for
-    all.
-8.  Promote sustained, inclusive and sustainable economic growth, full and
-    productive employment and decent work for all.
-9.  Build resilient infrastructure, promote inclusive and sustainable
-    industrialization and foster innovation.
-10. Reduce inequality within and among countries.
-11. Make cities and human settlements inclusive, safe, resilient and
-    sustainable.
-11. Ensure sustainable consumption and production patterns.
-13. Take urgent action to combat climate change and its impacts.
-14. Conserve and sustainably use the oceans, seas and marine resources for
-    sustainable development.
-15. Protect, restore and promote sustainable use of terrestrial ecosystems,
-    sustainably manage forests, combat desertification, and halt and reverse
-    land degradation and halt biodiversity loss.
-16. Promote peaceful and inclusive societies for sustainable development,
-    provide access to justice for all and build effective, accountable and
-    inclusive institutions at all levels.
-17. Strengthen the means of implementation and revitalize the Global Partnership
-    for Sustainable Development. 
+7.  Assigurai po totus energia moderna, sustenìbili, chi si-dda podint permiti,
+    e chi si-ndi podint fidai.
+8.  Aprovai unu cresci chi sighit in su tempus, inclusivu e sustenìbili,
+    ocupadura cumpria e traballosa, e traballus dèxilis po totus.
+9.  Strantaxai infrastrutura arresistenti, aprovai s' industrialisadura
+    inclusiva e sustenìbili e nudriai s' innovadura.
+10. Smenguai sa no-egualesa aìnturu e intra is paisus.
+11. Fai citadis e aposentamentus umanus inclusivus, segurus, arresistentis, e
+    sustenìbilis.
+11. Assigurai mollus de spaciadura e de produsidura sustenìbilis.
+13. Coidai de apretu cumbatendi contras sa mudàntzia de su clima e is efetus
+    suus.
+14. Amparai e imperai de manera sustenìbili is ocèanus, maris e siendas marinas
+    po su cresci sustenìbili.
+15. Amparai, aconciai, e aprovai s' imperus sustenìbili de eco-sistèmas
+    terrànius, atendi is padentis de manera sustenìbili, cumbati s' areticadura,
+    e firmai e furriai apalas su dannu a sa terra e firmai su perdi
+    bio-diferèntzia.
+16. Aprovai sociedadis paxiosas e inclusivas po su cresci sustenìbili, donai a
+    totus un' intradura a sa giustesa e strantaxai institutzionis profetosas,
+    arresponsàbilis, e inclusivas a calisisiat livellu.
+17. Arremaciai is fainas de s' Acòrdiu Globali po su Cresci Sustenìbili e ddi
+    donai fortza. 
 
 ![Sustainable development
 goals](https://i.postimg.cc/m2sTqjsr/1280px-sustainable-development-goals.png)\
