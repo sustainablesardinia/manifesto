@@ -17,7 +17,7 @@ dd' amitit genti meda (World Commission on Environment and Development, 1987):
 > de cumpromiti s' abilesa de is chi ant a benni de apanniai is abisòngius
 > insoru."
 
-In su 2017, s' ONU at allistau 17 *Tareas* po chi fessint "unu progetu po otenni
+In su 2017, s' ONU at allistau 17 *Punnas* po chi fessint "unu progetu po otenni
 unu mellus e prus benidori sustenìbili po totus" (United Nations, 2017):
 
 1.  Sculai sa poburesa de calisisiat bisura e in dònnia logu.
@@ -38,7 +38,7 @@ unu mellus e prus benidori sustenìbili po totus" (United Nations, 2017):
 10. Smenguai sa no-egualesa aìnturu e intra is paisus.
 11. Fai citadis e aposentamentus umanus inclusivus, segurus, arresistentis, e
     sustenìbilis.
-11. Assigurai mollus de spaciadura e de produsidura sustenìbilis.
+11. Assigurai mollus de spaciai e de produsi chi siant sustenìbilis.
 13. Coidai de apretu cumbatendi contras sa mudàntzia de su clima e is efetus
     suus.
 14. Amparai e imperai de manera sustenìbili is ocèanus, maris e siendas marinas
@@ -55,27 +55,31 @@ unu mellus e prus benidori sustenìbili po totus" (United Nations, 2017):
 
 ![Sustainable development
 goals](https://i.postimg.cc/m2sTqjsr/1280px-sustainable-development-goals.png)\
-*The 17 Sustainable Development Goals defined by the UN (United Nations, 2017).*
+*Is 17 Punnas de su Cresci Sustenìbili definias de s' ONU (United Nations,
+2017).*
 
-To further clarify the Goals, the UN provided a list of *Targets* for each goal,
-for a total of 169. While some of the Targets apply in practice only to
-developing countries, others are much more general. For example, consider the
-following one (United Nations, 2017):
+Po acrarai is Punnas, s' ONU at donau una listada de *Tareas* puru po dònnia
+punna, po unu suma de 169. Mancai unus cantu Tareas a s' acabu ballant po paìsus
+chi funt crescendi sceti, àterus funt prus generalis meda. Po atopu, si podit
+biri custu (United Nations, 2017):
 
-> "Improve progressively [...] global resource efficiency in consumption and
-> production and endeavour to decouple economic growth from environmental
-> degradation [...]."
+> "Amellorai sèmpiri de prus [...] s' imperu abbistu de is arresorsas de su
+> mundu, siat in su spaciai siat in su produsi e circai in totu is maeras de
+> stalla su cresci de s' ecoonomia e su guastai su logu [...]."
 
-This Target could apply to developing countries as well as to economically
-depressed peripheral areas of developed countries. In both cases,
-non-sustainable development imposes a choice between jobs and pollution, often
-hiding under supposed *sustainability* for the financial benefits of speculators
-(Puggioni, 2014; Tola, 2016).
+Custa Tarea iat a balli siat po paìsus chi funt crescendi siat po partis
+foraneas de paìsus giai crèscïus, sa prus deprìmias in s' economia. In ambaduus
+is situatzionis, su cresci no sustenìbili si fortzat a sceberai intra traballus
+e impesu, meda bortas cuendi-sì apalas de una suposta *sustenibilidadi* po su
+guadàngiu de speculadoris (Puggioni, 2014; Tola, 2016).
 
-The adjective *sustainable* has multiple meanings and, similarly, sustainable
-development has multiple aspects. One of these aspects is that it's not enough
-for it to be *endurable* given the available resources. Sustainable development
-also needs to be a *long-term plan* for resource management (Daly, 1990): 
+S' agetivu *sustenìbili* tenit prus de unu sentidu e, de manera simbillanti, su cresci
+sustenìbili tenis prus de una bisura. Una de i-custas bisuras est ca no bastat chi
+siat *aguantàbili* cun is arresorsas chi ddoi ant. Su cresci sustenìbili depit essi unu
+*propòsitu chi sigat po meda tempus* de cungiminai arresorsas (Daly, 1990):
+
+> "Po su chi pertocat su cungiminai arresorsas torranoàbilis, ddoi ant duus
+> printzìpius banalis de su cresci sustenìbili. Primu, ca sa 
 
 > "For the management of renewable resources there are two obvious principles of
 > sustainable development. First that harvest rates should equal regeneration
