@@ -78,50 +78,49 @@ sustenìbili tenis prus de una bisura. Una de i-custas bisuras est ca no bastat 
 siat *aguantàbili* cun is arresorsas chi ddoi ant. Su cresci sustenìbili depit essi unu
 *propòsitu chi sigat po meda tempus* de cungiminai arresorsas (Daly, 1990):
 
-> "Po su chi pertocat su cungiminai arresorsas torranoàbilis, ddoi ant duus
-> printzìpius banalis de su cresci sustenìbili. Primu, ca sa 
+> "Po su chi pertocat s' aministrai arresorsas arrenoàbilis, ddoi ant duus
+> printzìpius banalis de su cresci sustenìbili. Primu, ca s' arrata de su
+> spaciai depit agualai sa de s' ingenerai (produsi sustinìbili). Segundu, ca is
+> arratas de emitidura de àliga depint agualai s' abilesa de metiri de s'
+> ecosistema anca s' àliga etotu est emìtia. Is abilesas de torrai a ingenerai e
+> de metiri depint essi tratadas che capitali naturali, e su faddiri de mantenni
+> custas abilesas depit essi tratau che spaciai capitali, e duncas che cosa no
+> sustenìbili."
 
-> "For the management of renewable resources there are two obvious principles of
-> sustainable development. First that harvest rates should equal regeneration
-> rates (sustained yield). Second that waste emission rates should equal the
-> natural assimilative capacities of the ecosystems into which the wastes are
-> emitted. Regenerative and assimilative capacities must be treated as natural
-> capital, and failure to maintain these capacities must be treated as capital
-> consumption, and therefore not sustainable"
+Ita est sa sustenibilidadi computadurali
+----------------------------------------
 
-What is computational sustainability?
--------------------------------------
+Sa sustenibilidadi computadorali est imperai sa scièntzia de su computai po su
+cresci sustenìbili, a campus comenti s' ecologia, economia, e stùdius de sa
+sotziedadi. Sa comunidadi de sa sustenibilidadi computadorali pratzit custa
+bidea (Gomes et al., 2019):
 
-Computational sustainability is applying computer science towards sustainable
-development, to fields like ecology, economics, and social studies. The
-computational sustainability community shares the following vision (Gomes et
-al., 2019):
+> "Sa bidea nostra est ca is scentziaus de su computai podint e iant a depi
+> tenni un' arrolu de importu agiudendi a arresolvi sfidas de sa sotziedadi e de
+> sa naturalesa circhendi unu benidori sustenìbili, e mandendi innantis is
+> scièntzias de su computai puru comenti disciplina."
 
-> "Our vision is that computer scientists can and should play a key role in
-> helping address societal and environmental challenges in pursuit of a
-> sustainable future, while also advancing computer science as a discipline."
+Sa sustenibilidadi computadorali no est po scientziaus de su computai sceti,
+perou. Po tenni fortuna, sa sustenibilidadi computadorali bolit su traballai
+imparis de meda espertus in is scièntzias de sa sotziedadi, de su logu, e de sa
+naturalesa.
 
-Computational sustainability isn't only for computer scientists, though. To be
-successful, computational sustainability needs the collaboration of a large
-number of experts in social, environmental and natural sciences.
+Custus funt atopus de traballus fatus in su campu de sa sustenibilidadi computadorali:
 
-The following are some examples of work done in the field of computational
-sustainability.
+- Una manera otimisada de torrai a agualai sa flota de bicicretas de
+  *bike-sharing* in NYC imperendi *crowdsourcing* (Freund, Henderson and Shmoys,
+  2019).
+- Sa faina *Dark Ecology*, chi bogat informus de tipu biològicu de is informus
+  de su tempus po inditai sa cantidadi e sa calidadi de spètzia de pillonis
+  (Farnsworth et al., 2014).
+- Un' intelligèntzia artifitziali chi agiudat a cumprendi is mollus de su cassai
+  a sfrosu po cumbati custu acuntessimentu, unu sistema chi ant provau e ativau
+  in Malèsia, Botsuana e Tzina (Fang et al., 2017).
+- Sa faina *Global Forest Watch*, chi controllat su spadentamentu e is fogus in
+  is padentis in totu su mundu (Global Forest Watch, 2014).
 
-- An optimised rebalancing of the NYC bike-sharing fleet using crowdsourcing
-  (Freund, Henderson and Shmoys, 2019).
-- The Dark Ecology project, which extracts biological information from weather
-  data to determine the abundance and occurrence of bird species (Farnsworth et
-  al., 2014).
-- An artificial intelligence that helps understand patterns in wildlife poaching
-  to combat this phenomenon, a system tested and deployed in Malaysia, Botswana
-  and China (Fang et al., 2017).
-- The Global Forest Watch project, which monitors deforestation and forest fires
-  throughout the globe (Global Forest Watch, 2014).
-
-
-Why Sardinia?
--------------
+Poita sa Sardìnnia?
+-------------------
 
 Sardinia is the second-largest island in the Mediterranean Sea, It has a
 population of about 1.6 million people, mostly belonging to the local ethnic
