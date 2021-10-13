@@ -1,62 +1,62 @@
 Sustenibilidadi
 ==============
 
-Ita est su cresci sustenibili?
---------------------------------
+Ita est s' adelantamentu sustenibili?
+-------------------------------------
 
 Is orìginis de sa bidea de *sustenibilidadi* funt antigas e si podint sighiri po
 totu sa stòria de sa filosofia polìtica, ma in is annus prus acanta a nosu custu
-fueddu s' est furriau a moda e pighendi sentidu no craru (Du Pisani, 2006;
+fueddu s' est furriau a moda, pighendi sentidu no craru (Du Pisani, 2006;
 Spindler, 2013).
 
-In su 1987, s' Arrelata Brundtland fata de s' ONU iat strantaxau una carena de
+In su 1987, s' Arrelata Brundtland fata de s' ONU iat strantaxau una strutura de
 arrexonu polìticu po traballai in custu campu, e iat donau custa definidura chi
 dd' amitit genti meda (World Commission on Environment and Development, 1987):
 
-> "Su cresci sustenìbili est su cresci chi apànniat is abisòngius de imoi, chena
-> de cumpromiti s' abilesa de is chi ant a benni de apanniai is abisòngius
-> insoru."
+> "S' adelantamentu sustenìbili est s' adelantamentu chi apànniat is abisòngius
+> de imoi, chena de cumpromiti s' abilesa de is chi ant a benni de apanniai is
+> abisòngius insoru."
 
 In su 2017, s' ONU at allistau 17 *Punnas* po chi fessint "unu progetu po otenni
 unu mellus e prus benidori sustenìbili po totus" (United Nations, 2017):
 
 1.  Sculai sa poburesa de calisisiat bisura e in dònnia logu.
-2.  Sculai su fàmini, sodigai sa seguresa de tenni cosa de papai e su mellus
-    papai, e aprovai sa laurera sustenìbili.
+2.  Sculai su fàmini, sodigai sa seguresa de tenni cosa de papai bona, e aprovai
+    sa laurera sustenìbili.
 3.  Assigurai vidas sanas e aprovai saludi bona po totus, a calisisiat edadi.
 4.  Assigurai educatzioni de calidadi, inclusiva, e giusta, e aprovai ocasionis
     po imparai po totus.
-5.  Aprovai sa paridadi intra is gèneris e arremaciai totu is fèminas e is
+5.  Aprovai sa paridadi intra is gèneris e donai fortza a totu is fèminas e is
     piciocas.
 6.  Assigurai àcua e mara disponìbilis e de atendimentu sustenìbili po totus.
 7.  Assigurai po totus energia moderna, sustenìbili, chi si-dda podint permiti,
     e chi si-ndi podint fidai.
-8.  Aprovai unu cresci chi sighit in su tempus, inclusivu e sustenìbili,
+8.  Aprovai un' adelantamentu chi sighit in su tempus, inclusivu e sustenìbili,
     ocupadura cumpria e traballosa, e traballus dèxilis po totus.
-9.  Strantaxai infrastrutura arresistenti, aprovai s' industrialisadura
+9.  Strantaxai infrastrutura chi apoderit, aprovai s' industrialisadura
     inclusiva e sustenìbili e nudriai s' innovadura.
-10. Smenguai sa no-egualesa aìnturu e intra is paisus.
-11. Fai citadis e aposentamentus umanus inclusivus, segurus, arresistentis, e
+10. Smenguai sa no agualesa aìnturu e intra de is paisus.
+11. Fai citadis e aposentamentus umanus inclusivus, segurus, chi apoderint, e
     sustenìbilis.
 11. Assigurai mollus de spaciai e de produsi chi siant sustenìbilis.
 13. Coidai de apretu cumbatendi contras sa mudàntzia de su clima e is efetus
     suus.
 14. Amparai e imperai de manera sustenìbili is ocèanus, maris e siendas marinas
-    po su cresci sustenìbili.
-15. Amparai, aconciai, e aprovai s' imperus sustenìbili de eco-sistèmas
+    po s' adelantamentu sustenìbili.
+15. Amparai, aconciai, e aprovai s' imperu sustenìbili de ecosistemas
     terrànius, atendi is padentis de manera sustenìbili, cumbati s' areticadura,
-    e firmai e furriai apalas su dannu a sa terra e firmai su perdi
+    firmai e furriai apalas su dannu a sa terra, e firmai su perdi
     bio-diferèntzia.
-16. Aprovai sociedadis paxiosas e inclusivas po su cresci sustenìbili, donai a
-    totus un' intradura a sa giustesa e strantaxai institutzionis profetosas,
-    arresponsàbilis, e inclusivas a calisisiat livellu.
-17. Arremaciai is fainas de s' Acòrdiu Globali po su Cresci Sustenìbili e ddi
-    donai fortza. 
+16. Aprovai sociedadis paxiosas e inclusivas po s' adelantamentu sustenìbili,
+    donai a totus un' intradura a sa giustesa e strantaxai institutzionis
+    profetosas, arresponsàbilis, e inclusivas a calisisiat livellu.
+17. Donai fortza a is fainas, e mandai innantis s' Acòrdiu Globali po s'
+    Adelantamentu Sustenìbili.
 
 ![Sustainable development
 goals](https://i.postimg.cc/m2sTqjsr/1280px-sustainable-development-goals.png)\
-*Is 17 Punnas de su Cresci Sustenìbili definias de s' ONU (United Nations,
-2017).*
+*Is 17 Punnas de s' Adelantamentu Sustenìbili definias de s' ONU (United
+Nations, 2017).*
 
 Po acrarai is Punnas, s' ONU at donau una listada de *Tareas* puru po dònnia
 punna, po unu suma de 169. Mancai unus cantu Tareas a s' acabu ballant po paìsus
@@ -65,21 +65,22 @@ biri custu (United Nations, 2017):
 
 > "Amellorai sèmpiri de prus [...] s' imperu abbistu de is arresorsas de su
 > mundu, siat in su spaciai siat in su produsi e circai in totu is maeras de
-> stalla su cresci de s' ecoonomia e su guastai su logu [...]."
+> stalla s' adelantamentu de s' ecoonomia e su guastai su logu [...]."
 
 Custa Tarea iat a balli siat po paìsus chi funt crescendi siat po partis
 foraneas de paìsus giai crèscïus, sa prus deprìmias in s' economia. In ambaduus
-is situatzionis, su cresci no sustenìbili si fortzat a sceberai intra traballus
+is situatzionis, s' adelantamentu no sustenìbili si fortzat a sceberai intra traballus
 e impesu, meda bortas cuendi-sì apalas de una suposta *sustenibilidadi* po su
 guadàngiu de speculadoris (Puggioni, 2014; Tola, 2016).
 
-S' agetivu *sustenìbili* tenit prus de unu sentidu e, de manera simbillanti, su cresci
-sustenìbili tenis prus de una bisura. Una de i-custas bisuras est ca no bastat chi
-siat *aguantàbili* cun is arresorsas chi ddoi ant. Su cresci sustenìbili depit essi unu
-*propòsitu chi sigat po meda tempus* de cungiminai arresorsas (Daly, 1990):
+S' agetivu *sustenìbili* tenit prus de unu sentidu e, de manera simbillanti, s'
+adelantamentu sustenìbili tenis prus de una bisura. Una de i-custas bisuras est ca no
+bastat chi siat *aguantàbili* cun is arresorsas chi ddoi ant. S' adelantamentu
+sustenìbili depit essi unu *propòsitu chi sigat po meda tempus* de cungiminai
+arresorsas (Daly, 1990):
 
 > "Po su chi pertocat s' aministrai arresorsas arrenoàbilis, ddoi ant duus
-> printzìpius banalis de su cresci sustenìbili. Primu, ca s' arrata de su
+> printzìpius banalis de s' adelantamentu sustenìbili. Primu, ca s' arrata de su
 > spaciai depit agualai sa de s' ingenerai (produsi sustinìbili). Segundu, ca is
 > arratas de emitidura de àliga depint agualai s' abilesa de metiri de s'
 > ecosistema anca s' àliga etotu est emìtia. Is abilesas de torrai a ingenerai e
@@ -90,9 +91,9 @@ siat *aguantàbili* cun is arresorsas chi ddoi ant. Su cresci sustenìbili depit
 Ita est sa sustenibilidadi computadurali
 ----------------------------------------
 
-Sa sustenibilidadi computadorali est imperai sa scièntzia de su computai po su
-cresci sustenìbili, a campus comenti s' ecologia, economia, e stùdius de sa
-sotziedadi. Sa comunidadi de sa sustenibilidadi computadorali pratzit custa
+Sa sustenibilidadi computadurali est imperai sa scièntzia de su computai po s'
+adelantamentu sustenìbili, a campus comenti s' ecologia, economia, e stùdius de
+sa sotziedadi. Sa comunidadi de sa sustenibilidadi computadurali pratzit custa
 bidea (Gomes et al., 2019):
 
 > "Sa bidea nostra est ca is scentziaus de su computai podint e iant a depi
@@ -100,12 +101,13 @@ bidea (Gomes et al., 2019):
 > sa naturalesa circhendi unu benidori sustenìbili, e mandendi innantis is
 > scièntzias de su computai puru comenti disciplina."
 
-Sa sustenibilidadi computadorali no est po scientziaus de su computai sceti,
-perou. Po tenni fortuna, sa sustenibilidadi computadorali bolit su traballai
+Sa sustenibilidadi computadurali no est po scientziaus de su computai sceti,
+perou. Po tenni fortuna, sa sustenibilidadi computadurali bolit su traballai
 imparis de meda espertus in is scièntzias de sa sotziedadi, de su logu, e de sa
 naturalesa.
 
-Custus funt atopus de traballus fatus in su campu de sa sustenibilidadi computadorali:
+Custus funt atopus de traballus fatus in su campu de sa sustenibilidadi
+computadurali:
 
 - Una manera otimisada de torrai a agualai sa flota de bicicretas de
   *bike-sharing* in NYC imperendi *crowdsourcing* (Freund, Henderson and Shmoys,
@@ -122,18 +124,10 @@ Custus funt atopus de traballus fatus in su campu de sa sustenibilidadi computad
 Poita sa Sardìnnia?
 -------------------
 
-Sardinia is the second-largest island in the Mediterranean Sea, It has a
-population of about 1.6 million people, mostly belonging to the local ethnic
-group: the Sardinians (Danver, 2015).
+Sa Sardìnnia est sa segundu prus ìsula manna de su Mari Mesuterràniu e tenit unu pòpulu de 1.6 millionis de personis, pruschetotu de sa truma ètnica locali: is Sardus (Danver, 2015).
 
-The Sardinians are an ethnic group within Italy similarly to how the Welsh, the
-Scots, and the Irish are ethnic groups within the British Islands. Although
-today Italian is the most spoken language on the Sardinia, the local Sardinian
-language, an autonomous Romance language that does not belong to the family of
-italic languages (Onnis, 2019), is still spoken, especially in the northern part
-of the island (Mongili, 2012). Other languages spoken in Sardinia are: Catalan,
-Gallurese, Sassarese, and Tabarkin. This diversity gives the island rich
-cultural traditions and a strong identity, but Italianisation, which had its
+Is Sardus funt una truma ètnica aìnturu de s' Itàlia de sa pròpriu manera che is Gallesus, is Scotzesus, e is Irlandesus chi funt trumas ètnicas aìnturu de is Ìsulas Britànnicas. Mancai in diis de oi s' Italianu est sa prus lìngua fueddada in Sardìnnia, sa lìngua locali Sarda, una lìngua arromàngia autònoma chi no est de sa pròpriu famìllia che is lìnguas itàlicas (Onnis, 2019), est fueddau ancora, de manera pretzisa in sa parti de susu de s' Ìsula (Mongili, 2012). Àteras lìnguas fueddadas in Sardìnnia funt: su Catalanu, su Gadduresu, su Tataresu, e su Tabarchinu. Custa diversidadi donat traditzionis culturalis arricas e un' identidadi forti, ma s' Italianisadura, chi fiat prus forti in s' era fascista de is annus 20, iat -- e est ancora --  
+
 peak during the fascist era of the 1920s, has – and still is – eroding this rich
 cultural texture. This is because the population associates the Italian language
 with promises of improvement of their socio-economic conditions (Schjerve, 1993;
