@@ -129,9 +129,9 @@ of the island (Mongili, 2012). Other languages spoken in Sardinia are: Catalan,
 Gallurese, Sassarese, and Tabarkin. This diversity gives the island rich
 cultural traditions and a strong identity, but Italianisation, which had its
 peak during the fascist era of the 1920s, has – and still is – eroding this rich
-cultural texture. This is because the population associates the Italian language
+cultural fabric. This is because the population associates the Italian language
 with promises of improvement of their socio-economic conditions (Schjerve, 1993;
-Mongili, 2012), at the cost of cultural alienation . This process of *cultural
+Mongili, 2012), at the cost of cultural alienation. This process of *cultural
 cringe* shows why the social and economic situation of Sardinia can be described
 with the tools provided by postcolonial studies (Sulis, 2012; Mongili, 2015),
 similarly to what has been done for Scotland (Macdonald, 2006).
