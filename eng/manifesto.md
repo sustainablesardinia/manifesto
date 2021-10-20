@@ -2,7 +2,7 @@ The Manifesto
 =============
 
 A. What we do and why we do it
----------------------------
+------------------------------
 
 1.  We create software to enable sustainable development in Sardinia because we
     believe technology has a role to play in address societal and environmental
@@ -10,16 +10,16 @@ A. What we do and why we do it
 2.  We use the techniques of *data science* to improve the understanding of
     Sardinian environment, economics, and society because we think successful
     development can only come from good understanding.
-3.  We open our work and resources to all disciplines because we think only
-    by carrying out interdisciplinary work we can address the challenges of
+3.  We open our work and resources to all disciplines because we think only by
+    carrying out interdisciplinary work we can address the challenges of
     sustainable development.
 4.  We empower local communities in Sardinia through our work, because we think
     that development can be sustainable only if supported by local communities
     *from within*.
-5.  We work for the Sardinian community and only for it because we want to
-    keep our efforts focused.
-6.  To make sure our efforts are focused on our aims, we attain to the
-    following definition: sustainable development is development that 
+5.  We work for the Sardinian community and only for it because we want to keep
+    our efforts focused.
+6.  To make sure our efforts are focused on our aims, we attain to the following
+    definition: sustainable development is development that 
     * replaces any resources (natural and human-made) with resources of equal or
       greater value,       
     * does not compromise one type of resource for another,
@@ -27,16 +27,16 @@ A. What we do and why we do it
     * does not require state aid for its maintenance, 
     * provides full-time jobs to people in the community,
     * keeps any financial revenue within the community.
-8.  We support other organisations and initiatives that align with what we do
+7.  We support other organisations and initiatives that align with what we do
     because our success depends on their success too.
-9.  We inform institutions, to make sure they have accurate data to take
-    the best decisions.
-10. We inform the public to make sure they are aware of our efforts and they're
+8.  We inform institutions, to make sure they have accurate data to take the
+    best decisions.
+9.  We inform the public to make sure they are aware of our efforts and they're
     aware of what is happening in the community and environment. To do this, we
     use clear, simple language.
-11. We attain to high technical standards because we want to make sure what we
+10. We attain to high technical standards because we want to make sure what we
     do can be both used and maintained as easily as possible.
-12. We produce rigorous work because we want it to matter. We want our impact to
+11. We produce rigorous work because we want it to matter. We want our impact to
     be as high as possible.
 12. We believe culture is a form of human-made resource, and we want to add
     value to Sardinian culture by using and increasing the prestige of Sardinian
@@ -60,15 +60,15 @@ A. What we do and why we do it
 
 
 B. What we don't do and why we don't do it
----------------------------------------
+------------------------------------------
 
 1. We don't do any work that doesn't involve computing or data analysis at all,
    because we want to focus our efforts.
 2. We don't carry out work under request for specific companies because we're
    not a company ourselves.
-3. We don't produce closed-source software because we want our work to be
-   useful to as many people as possible. However, we can *use* non-open-source
-   software as we see fit.
+3. We don't produce closed-source software because we want our work to be useful
+   to as many people as possible. However, we can *use* non-open-source software
+   as we see fit.
 4. The initiative does not affiliate with political parties because we don't
    want doubts to be cast on the rigour of our work.
 5. We do not develop military applications.
@@ -79,9 +79,10 @@ B. What we don't do and why we don't do it
 
 
 C. Our values
-----------
+-------------
 
-The following are the *values* we apply to everything we do within the initiative.
+The following are the *values* we apply to everything we do within the
+initiative.
 
 #### Reason
 We are guided by reason. We justify what we do with rigorous arguments to the
@@ -91,7 +92,8 @@ be affected by our personal convictions.
 #### Empathy
 We empathise with the people we interact with. We provide constructive feedback
 in a respectful way because the whole initiative benefits from the personal
-growth and the learning of each participant. We recognise and cherish contribution.
+growth and the learning of each participant. We recognise and cherish
+contribution.
 
 #### Selflessness
 We do not aim to achieve political or economic benefit from our work within the

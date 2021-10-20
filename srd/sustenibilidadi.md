@@ -1,5 +1,5 @@
 Sustenibilidadi
-==============
+===============
 
 Ita est s' adelantamentu sustenibili?
 -------------------------------------
