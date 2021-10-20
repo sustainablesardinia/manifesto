@@ -112,7 +112,6 @@ sustainability.
 - The Global Forest Watch project, which monitors deforestation and forest fires
   throughout the globe (Global Forest Watch, 2014).
 
-
 Why Sardinia?
 -------------
 
@@ -129,9 +128,9 @@ of the island (Mongili, 2012). Other languages spoken in Sardinia are: Catalan,
 Gallurese, Sassarese, and Tabarkin. This diversity gives the island rich
 cultural traditions and a strong identity, but Italianisation, which had its
 peak during the fascist era of the 1920s, has – and still is – eroding this rich
-cultural texture. This is because the population associates the Italian language
+cultural fabric. This is because the population associates the Italian language
 with promises of improvement of their socio-economic conditions (Schjerve, 1993;
-Mongili, 2012), at the cost of cultural alienation . This process of *cultural
+Mongili, 2012), at the cost of cultural alienation. This process of *cultural
 cringe* shows why the social and economic situation of Sardinia can be described
 with the tools provided by postcolonial studies (Sulis, 2012; Mongili, 2015),
 similarly to what has been done for Scotland (Macdonald, 2006).
@@ -172,8 +171,8 @@ the ecosystem (Zucchetti, 2005; Cristaldi et al., 2013).
 For all these reasons, Sardinia desperately needs actual sustainable development
 policies, before it's too late.
 
-
 ### References
+
 Aru, A., Tomasi, D. and Vacca, A. (2006). Chapter 17: Aspects of Environment
 Degradation in Sardinia. In: Tennyson, L. and Zingari P. C. eds., *Preparing for
 the next generation of watershed management programmes and projects: Water
