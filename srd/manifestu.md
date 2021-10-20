@@ -1,8 +1,8 @@
 Su manifestu
 ============
 
-A. Ita feus e poita ddu feus
-----------------------------
+A. Ita faeus e poita ddu faeus
+------------------------------
 
 1.  Creaus programas po sa computadora po permiti s' adelantamentu sustenìbili
     in Sardìnnia, poita ca creeus ca sa tennologia tenit un' arrolu is s'
@@ -12,7 +12,7 @@ A. Ita feus e poita ddu feus
     poita ca pensaus ca un' adelantamentu diciosu podit benni de unu cumprendi
     cumpriu sceti.
 3.  Abereus su traballu e is arresorsas a totu is disciplinas, poita ca pensaus
-    ca sceti chi feus unu traballu intra-disciplinàriu podeus arresolvi is
+    ca sceti chi faeus unu traballu intra-disciplinàriu podeus arresolvi is
     barrancus de s' adelantamentu sustenìbili.
 4.  Donaus fortza a is comunidadis localis de sa Sardìnnia po mori de su
     traballu nostru, poita ca s' adelantamentu podit essi sustenìbili sceti chi
@@ -30,7 +30,7 @@ A. Ita feus e poita ddu feus
     * donat traballu a tempus prenu po sa genti in sa comunidadi,
     * tenit dònnia gadàngiu de dinai aìnturu de sa comunidadi.
 7.  Agiudaus àteras organitzatzionis e fainas chi traballant de manera pari a su
-    chi feus nosu poita ca sa dìcia nostra benit de sa dìcia insoru puru.
+    chi faeus nosu poita ca sa dìcia nostra benit de sa dìcia insoru puru.
 8.  Informaus is istitutzionis, poita si boleus assigurai chi tèngiant informus
     pretzisus po fai is mellus sceberus.
 9.  Informaus su pùbricu po s' assigurai ca sciint de is sfortzus nostrus e ca
