@@ -9,31 +9,32 @@ totu sa stòria de sa filosofia polìtica, ma in is annus prus acanta a nosu cus
 fueddu s' est furriau a moda, pighendi sentidu no craru (Du Pisani, 2006;
 Spindler, 2013).
 
-In su 1987, s' Arrelata Brundtland fata de s' ONU iat strantaxau una strutura de
-arrexonu polìticu po traballai in custu campu, e iat donau custa definidura chi
-dd' amitit genti meda (Comissioni mondiali po su logu e s' adelantamentu, 1987):
+In su 1987, s' Arrelata Brundtland fata de is Natzionis unias iat strantaxau una
+strutura de arrexonu polìticu po traballai in custu campu, e iat donau custa
+definidura chi dd' amitit genti meda (Comissioni mondiali po su logu e s'
+adelantamentu, 1987):
 
 > "S' adelantamentu sustenìbili est s' adelantamentu chi apànniat is abisòngius
 > de imoi, chena de cumpromiti s' abilesa de is chi ant a benni de apanniai is
 > abisòngius insoru."
 
-In su 2017, s' ONU at allistau 17 *Punnas* po chi fessint "unu progetu po otenni
-unu mellus e prus benidori sustenìbili po totus" (Natzionis Unias, 2017):
+In su 2017, s' ONU at allistau 17 punnas po chi fessint "unu progetu po otenni
+unu mellus e prus benidori sustenìbili po totus" (Natzionis unias, 2017):
 
-1.  Sculai sa poburesa de calisisiat bisura e in dònnia logu.
-2.  Sculai su fàmini, sodigai sa seguresa de tenni cosa de papai bona, e aprovai
+1.  Firmai sa poburesa de calisisiat bisura e in dònnia logu.
+2.  Firmai su fàmini, sodigai sa seguresa de tenni cosa de papai bona, e promovi
     sa laurera sustenìbili.
-3.  Assigurai vidas sanas e aprovai saludi bona po totus, a calisisiat edadi.
-4.  Assigurai educatzioni de calidadi, inclusiva, e giusta, e aprovai ocasionis
+3.  Assigurai vidas sanas e promovi saludi bona po totus, a calisisiat edadi.
+4.  Assigurai educatzioni de calidadi, inclusiva, e giusta, e promovi ocasionis
     po imparai po totus.
-5.  Aprovai sa paridadi intra is gèneris e donai fortza a totu is fèminas e is
+5.  Promovi sa paridadi intra is gèneris e donai fortza a totu is fèminas e is
     piciocas.
 6.  Assigurai àcua e mara disponìbilis e de atendimentu sustenìbili po totus.
 7.  Assigurai po totus energia moderna, sustenìbili, chi si-dda podint permiti,
     e chi si-ndi podint fidai.
-8.  Aprovai un' adelantamentu chi sighit in su tempus, inclusivu e sustenìbili,
+8.  Promovi un' adelantamentu chi sigat in su tempus, inclusivu e sustenìbili,
     ocupadura cumpria e traballosa, e traballus dèxilis po totus.
-9.  Strantaxai infrastrutura chi apoderit, aprovai s' industrialisadura
+9.  Strantaxai infrastrutura chi apoderit, promovi s' industrialisadura
     inclusiva e sustenìbili e nudriai s' innovadura.
 10. Smenguai sa no agualesa aìnturu e intra de is paisus.
 11. Fai citadis e aposentamentus umanus inclusivus, segurus, chi apoderint, e
@@ -43,25 +44,24 @@ unu mellus e prus benidori sustenìbili po totus" (Natzionis Unias, 2017):
     suus.
 14. Amparai e imperai de manera sustenìbili is ocèanus, maris e siendas marinas
     po s' adelantamentu sustenìbili.
-15. Amparai, aconciai, e aprovai s' imperu sustenìbili de ecosistemas
-    terrànius, atendi is padentis de manera sustenìbili, cumbati s' areticadura,
-    firmai e furriai apalas su dannu a sa terra, e firmai su perdi
-    bio-diferèntzia.
-16. Aprovai sociedadis paxiosas e inclusivas po s' adelantamentu sustenìbili,
+15. Amparai, aconciai, e promovi s' imperu sustenìbili de ecosistemas terrànius,
+    atendi is padentis de manera sustenìbili, cumbati s' areticadura, firmai e
+    furriai apalas su dannu a sa terra, e firmai su perdi bio-diferèntzia.
+16. Promovi sociedadis paxiosas e inclusivas po s' adelantamentu sustenìbili,
     donai a totus un' intradura a sa giustesa e strantaxai institutzionis
     profetosas, arresponsàbilis, e inclusivas a calisisiat livellu.
-17. Donai fortza a is fainas, e mandai innantis s' Acòrdiu Globali po s'
-    Adelantamentu Sustenìbili.
+17. Donai fortza a is fainas, e mandai innantis s' Acòrdiu globali po s'
+    adelantamentu sustenìbili.
 
 ![Sustainable development
 goals](https://i.postimg.cc/m2sTqjsr/1280px-sustainable-development-goals.png)\
-*Is 17 Punnas de s' Adelantamentu Sustenìbili definias de s' ONU (United
-Nations, 2017).*
+*Is 17 punnas de s' adelantamentu sustenìbili definias de s' ONU (Natzionis
+Unias, 2017).*
 
-Po acrarai is Punnas, s' ONU at donau una listada de *Tareas* puru po dònnia
-punna, po unu suma de 169. Mancai unus cantu Tareas a s' acabu ballant po paìsus
+Po acrarai is punnas, s' ONU at donau una listada de *tareas* puru po dònnia
+punna, po unu suma de 169. Mancai unus cantu tareas a s' acabu ballant po paìsus
 chi funt crescendi sceti, àterus funt prus generalis meda. Po atopu, si podit
-biri custu (Natzionis Unias, 2017):
+biri custu (Natzionis unias, 2017):
 
 > "Amellorai sèmpiri de prus [...] s' imperu abbistu de is arresorsas de su
 > mundu, siat in su spaciai siat in su produsi e circai in totu is maeras de
@@ -71,7 +71,8 @@ Custa tarea iat a balli siat po paìsus chi funt crescendi siat po partis
 foraneas de paìsus giai crèscïus, sa prus deprìmias in s' economia. In ambaduus
 is situatzionis, s' adelantamentu no sustenìbili si fortzat a sceberai intra
 traballus e impesu, meda bortas cuendi-sì apalas de una suposta
-*sustenibilidadi* po su guadàngiu de speculadoris (Puggioni, 2014; Tola, 2016).
+*sustenibilidadi* po su guadàngiu de is speculadoris (Puggioni, 2014; Tola,
+2016).
 
 S' agetivu *sustenìbili* tenit prus de unu sentidu e, de manera simbillanti, s'
 adelantamentu sustenìbili tenis prus de una bisura. Una de i-custas bisuras est
@@ -125,22 +126,22 @@ Poita sa Sardìnnia?
 -------------------
 
 Sa Sardìnnia est sa segundu prus ìsula manna de su Mari Mesuterràniu e tenit unu
-pòpulu de 1.6 millionis de personis, pruschetotu de sa truma ètnica locali: is
-Sardus (Danver, 2015).
+pòpulu de 1,6 millionis de personis, pruschetotu de sa truma ètnica locali: is
+sardus (Danver, 2015).
 
-Is Sardus funt una truma ètnica aìnturu de s' Itàlia de sa pròpriu manera che is
-Gallesus, is Scotzesus, e is Irlandesus chi funt trumas ètnicas aìnturu de is
+Is sardus funt una truma ètnica aìnturu de s' Itàlia de sa pròpriu manera che is
+gallesus, is scotzesus, e is irlandesus chi funt trumas ètnicas aìnturu de is
 Ìsulas Britànnicas. Mancai in diis de oi s' Italianu est sa prus lìngua fueddada
-in Sardìnnia, sa lìngua locali Sarda, una lìngua arromàngia autònoma chi no est
+in Sardìnnia, sa lìngua locali sarda, una lìngua arromàngia autònoma chi no est
 de sa pròpriu famìllia che is lìnguas itàlicas (Onnis, 2019), est fueddau
 ancora, de manera pretzisa in sa parti de susu de s' Ìsula (Mongili, 2012).
-Àteras lìnguas fueddadas in Sardìnnia funt: su Catalanu, su Gadduresu, su
-Tataresu, e su Tabarchinu. Custa diversidadi donat traditzionis culturalis
-arricas e un' identidadi forti, ma s' Italianisadura, chi fiat prus forti in s'
+Àteras lìnguas fueddadas in Sardìnnia funt: su catalanu, su gadduresu, su
+tataresu, e su tabarchinu. Custa diversidadi donat traditzionis culturalis
+arricas e un' identidadi forti, ma s' italianisadura, chi fiat prus forti in s'
 era fascista de is annus 20, iat - e est ancora - spacendi custa intessidura
 tanti arrica. Custu est poita ca sa genti acàpiat sa lìngua italiana a is
 promissas de amelloramentu de is conditzionis socio-econòmicas insoru (Schjerve,
-1993; Mongili, 2012), a costu de s' alienamentu culturali. Custu acuntèssimentu
+1993; Mongili, 2012), a costu de s' alienadura culturali. Custu acuntèssimentu
 de bregùngia culturali (*culture cringe*) s' amostat poita est ca sa situazioni
 de sa sotziedadi e de s' economia de sa Sardìnnia si podit contai cun is ainas
 de is stùdius postcolonialis (Sulis, 2012; Mongili, 2015), de manera simbillanti
@@ -151,8 +152,8 @@ arregionis pòburas de Europa. Inghitzendi de is annus 50, s' industrialisadura
 indùsia de sa *Faina de Arrenascimentu* iat amellorau is conditzionis econòmicas
 de is abitantis, ma s' amelloramentu si fiat allentau a su cumentzu de is annus
 70 finsas a si firmai paris (Biagi et al., 2019). In diis de oi, siat s' arrenda
-pro capite siat s' arrata de ocupadura funt asuta meda de sa mèdia italiana e
-de sa europea (European Commission, 2010).
+pro capite siat s' arrata de ocupadura funt asuta meda de sa mèdia italiana e de
+sa europea (Commissioni europea, 2010).
 
 Is arresultaus de polìticas de adelantamentu no-sustenìbilis in Sardìnnia si
 podint biri beni. Giai sa mitadi de su territòriu de sa Sardìnnia est amaletzau
@@ -168,8 +169,8 @@ amargu (Aru, Tomasi and Vacca, 2006):
 > contaminadas de manera no torràbili. Imoi is oritzontis de apitzus tenint
 > baloris artus prumu, e cantidadis de importu de zincu, manganesi e càdimiu."
 
-Su turismu no-sustenìbili puru est bessiu problema de logu (Aru, Tomasi
-and Vacca, 2006):
+Su turismu no-sustenìbili puru est bessiu problema de logu (Aru, Tomasi and
+Vacca, 2006):
 
 > "Su pigai de acuiferus in àreas de sa costa, chi s' est ammanniau meda meda
 > cun su scopiai de su turismu, no est aministrau de manera dèxili. A dolu
@@ -184,17 +185,25 @@ acanta siat po s' ecosistema  (Zucchetti, 2005; Cristaldi et al., 2013).
 Po totu custas arrexonis, sa Sardìnnia tenit un' abisòngiu disisperau de
 polìticas de adelantamentu sostenìbili bonas, primu chi siat trigadiu tropu.
 
+### Arrelatas bibliogràficas
 
-### Arriferimentus
 Aru, A., Tomasi, D. and Vacca, A. (2006). Chapter 17: Aspects of Environment
 Degradation in Sardinia. In: Tennyson, L. and Zingari P. C. eds., *Preparing for
 the next generation of watershed management programmes and projects: Water
 Resources for the Future*. Organitzazioni po su Papai e sa Laurera de is
-Natzionis Unias (FAO), pp. 172-173.
+Natzionis unias (FAO), pp. 172-173.
 
 Biagi, B., Dettori, B., Paci, R. and Usai, S. (2019). *Economic development in
 Sardinia: overcoming the insularity gap*. Centro Ricerche Economiche Nord Sud
 (CRENOS) Working Papers. Universidadi de Casteddu, Universidadi de Tàtari, p. 2.
+
+Commissioni europea (2010). *Regional Innovation Monitor Plus: Sardinia*.
+[online] ec.europa.eu. S' agatat innoi:
+https://ec.europa.eu/growth/tools-databases/regional-innovation-monitor/base-profile/sardinia
+[Pigau su 7 Gennàrgiu 2021].
+
+Comissioni mondiali po su logu e s' adelantamentu (1987). *Our Common Future,
+Chapter 2: Towards Sustainable Development – A/42/427 Annex*.
 
 Cristaldi, M., Foschi, C., Szpunar, G., Brini, C., Marinelli, F. and Triolo, L.
 (2013). Toxic Emissions from a Military Test Site in the Territory of Sardinia,
@@ -210,11 +219,6 @@ groups, cultures, and contemporary issues*. Londra; New York: Routledge, p. 370.
 Du Pisani, J.A. (2006). Sustainable development – historical roots of the
 concept. *Environmental Sciences*, 3(2), pp. 83–96.
 
-European Commission (2010). *Regional Innovation Monitor Plus: Sardinia*.
-[online] ec.europa.eu. S' agatat innoi:
-https://ec.europa.eu/growth/tools-databases/regional-innovation-monitor/base-profile/sardinia
-[Pigau su 7 Gennàrgiu 2021].
-
 Fang, F., Nguyen, T.H., Pickles, R., Lam, W.Y., Clements, G.R., An, B., Singh,
 A., Schwedock, B.C., Tambe, M. and Lemieux, A. (2017). PAWS — A Deployed
 Game-Theoretic Application to Combat Poaching. *AI Magazine*, 38(1), pp. 23–36.
@@ -225,8 +229,7 @@ Migrating Birds from Weather Radar – A Case Study in Computational
 Sustainability. *AI Magazine*, 35(2), pp. 31–48.
 
 Freund, D., Henderson, S. G. and Shmoys, D. B. (2019). Bike Sharing. In: Hu, M.
-ed., *Sharing economy: making supply meet demand*. Springer,
-pp. 435-460.
+ed., *Sharing economy: making supply meet demand*. Springer, pp. 435-460.
 
 Ghiglieri, G. and Da Pelo, S. (2016). Hydrogeological Assessment of Sardinia and
 Related Issues. In: Corsale, A. and Sistu, G. eds., *Surrounded by water:
@@ -257,6 +260,10 @@ Sardìnnia, pp. 87-94.
 Mongili, A. (2015). *Topologie postcoloniali. Innovazione e modernizzazione in
 Sardegna*. Casteddu: Condaghes, ch. 1, sec. 2. ISBN 978-8873562573
 
+Natzionis unias (2017). *Resolution adopted by the General Assembly on 6 July
+2017, Work of the Statistical Commission pertaining to the 2030 Agenda for
+Sustainable Development*.
+
 Onnis, G. (2019). A corpus-based analysis of the vitality of Sardinian. A
 comparison with Māori. Bologna: Centro di Studi Linguistico-Culturali (CeSLiC) e
 Alma Mater Studiorum, Universidadi de Bologna. AlmaDL. DOI
@@ -264,10 +271,12 @@ Alma Mater Studiorum, Universidadi de Bologna. AlmaDL. DOI
 Occasional papers*, p. 47.
 
 Puggioni, A. (2014). *Aspetti geografici e normativi delle bonifiche delle aree
-inquinate del Nord Sardegna*. Tesi de dotorau. Universidadi de Tàtari, pp. 47-49.
+inquinate del Nord Sardegna*. Tesi de dotorau. Universidadi de Tàtari, pp.
+47-49.
 
 Schjerve, R. R. (1993). Sardinian: Italian. In: Posner, R. and Green, J. N.
-(eds.) *Trends in Romance Linguistics and Phonology* (5). Berlinu: De Grutyer, p.
+(eds.) *Trends in Romance Linguistics and Phonology* (5). Berlinu: De Grutyer,
+p.
 272.
 
 Spindler, E.A. (2013). The History of Sustainability The Origins and Effects of
@@ -283,13 +292,6 @@ Tola, V. (2016). Chimica verde in Sardegna. Dal fallimento annunciato del
 progetto Matrìca l’ennesima “cattedrale nel deserto”? Le responsabilità di Eni.
 *Aladinpensiero News*. [online] 15 Gennàrgiu. S' agatat innoi:
 http://www.aladinpensiero.it/?p=51526 [Pigau su 2 Gennàrgiu 2021].
-
-Natzionis Unias (2017). *Resolution adopted by the General Assembly on 6 July
-2017, Work of the Statistical Commission pertaining to the 2030 Agenda for
-Sustainable Development*.
-
-Comissioni mondiali po su logu e s' adelantamentu (1987). *Our Common Future,
-Chapter 2: Towards Sustainable Development – A/42/427 Annex*.
 
 Zucchetti, M. (2005). Environmental Pollution and Population Health Effects in
 the Quirra Area, Sardinia Island (Italy) and the Depleted Uranium Case. *Journal

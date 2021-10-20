@@ -112,7 +112,6 @@ sustainability.
 - The Global Forest Watch project, which monitors deforestation and forest fires
   throughout the globe (Global Forest Watch, 2014).
 
-
 Why Sardinia?
 -------------
 
@@ -172,8 +171,8 @@ the ecosystem (Zucchetti, 2005; Cristaldi et al., 2013).
 For all these reasons, Sardinia desperately needs actual sustainable development
 policies, before it's too late.
 
-
 ### References
+
 Aru, A., Tomasi, D. and Vacca, A. (2006). Chapter 17: Aspects of Environment
 Degradation in Sardinia. In: Tennyson, L. and Zingari P. C. eds., *Preparing for
 the next generation of watershed management programmes and projects: Water

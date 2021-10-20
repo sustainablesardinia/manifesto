@@ -5,7 +5,7 @@ A. Ita feus e poita ddu feus
 ----------------------------
 
 1.  Creaus programas po sa computadora po permiti s' adelantamentu sustenìbili
-    in Sardìnnia, poita ca crieus ca sa tennologia tenit un' arrolu is s'
+    in Sardìnnia, poita ca creeus ca sa tennologia tenit un' arrolu is s'
     arresolvi is barrancus de sa sotziedadi e de su logu.
 2.  Imperaus is tènnicas de sa scièntzia de is informus (*data science*) po
     amellorai su cumprendi sa naturalesa, economia, e sotziedadi de sa Sardìnnia
@@ -40,7 +40,7 @@ A. Ita feus e poita ddu feus
     siat imperai siat mantenni de manera sa prus discansosa chi fait.
 11. Produseus traballus de arrigori ca boleus chi siat de importu. Boleus chi
     s' efetu de su traballu nostru siat su prus mannu chi fait.
-12. Crieus ca sa cultura est una forma de arresorsa fata de òmini, e boleus
+12. Creeus ca sa cultura est una forma de arresorsa fata de òmini, e boleus
     donai balori a sa cultura sarda imperendi e adelantendi su prestìgiu de is
     lìnguas de Sardìnnia. Po i-custu:
     * imperaus s' ingresu e calisisiat lìngua de Sardìnnia po si fueddai a paris
@@ -60,12 +60,11 @@ A. Ita feus e poita ddu feus
     cuntènnius de i-custu manifestu. Custu est ca teneus abisòngiu de agiudu
     meda po s' acostai a is tareas nostras.
 
-
 B. Ita no faeus e poita ca no ddu faeus
 ---------------------------------------
 
 1. No traballaus a cosa chi no bolit computaduras o anàlisi de datus perunas,
-    poita ca boleus cuncentrai is sfortzus.
+   poita ca boleus cuncentrai is sfortzus.
 2. No traballaus a pregontas de aziendas poita ca no seus un' azienda. 
 3. No produseus programas a mitza serrada poita ca boleus chi su traballu nostru
    siat utilosu a is prus chi fait. Podeus imperai programas de computadora chi
@@ -78,7 +77,6 @@ B. Ita no faeus e poita ca no ddu faeus
    sustenìbili.
 7. No traballaus a nudda chi agiudint adelantamentu no sustenìbili de calisisiat
    forma.
-
 
 C. Is baloris nostrus
 ---------------------

@@ -58,7 +58,6 @@ A. What we do and why we do it
     compromise with the contents of this Manifesto. This is because we need to
     get all the help we can to achieve our aims.
 
-
 B. What we don't do and why we don't do it
 ------------------------------------------
 
@@ -76,7 +75,6 @@ B. What we don't do and why we don't do it
    (*assistenzialismo*) because we don't think that is sustainable development.
 7. We don't develop anything that supports non-sustainable development in any of
    its forms.
-
 
 C. Our values
 -------------
