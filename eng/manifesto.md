@@ -1,4 +1,4 @@
-The Manifesto
+The manifesto
 =============
 
 A. What we do and why we do it

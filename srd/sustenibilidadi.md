@@ -1,7 +1,7 @@
-Sustenibilidadi
-===============
+Ita bolit nai sustenibilidadi?
+==============================
 
-Ita est s' adelantamentu sustenibili?
+Ita est s' adelantamentu sustenìbili?
 -------------------------------------
 
 Is orìginis de sa bidea de *sustenibilidadi* funt antigas e si podint sighiri po

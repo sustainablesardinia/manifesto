@@ -1,5 +1,5 @@
-Sostenibilità
-==============
+Cosa significa sostenibilità?
+=============================
 
 Che cos'è lo sviluppo sostenibile?
 ----------------------------------

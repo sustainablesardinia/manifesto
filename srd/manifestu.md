@@ -1,4 +1,4 @@
-Su Manifestu
+Su manifestu
 ============
 
 A. Ita feus e poita ddu feus

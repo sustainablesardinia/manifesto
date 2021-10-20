@@ -1,4 +1,4 @@
-Il Manifesto
+Il manifesto
 =============
 
 A. Cosa facciamo e perché lo facciamo
