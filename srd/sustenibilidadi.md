@@ -131,7 +131,7 @@ sardus (Danver, 2015).
 
 Is sardus funt una truma ètnica aìnturu de s' Itàlia de sa pròpriu manera che is
 gallesus, is scotzesus, e is irlandesus chi funt trumas ètnicas aìnturu de is
-Ìsulas Britànnicas. Mancai in diis de oi s' Italianu est sa prus lìngua fueddada
+Ìsulas Britànnicas. Mancai in diis de oi s' italianu est sa prus lìngua fueddada
 in Sardìnnia, sa lìngua locali sarda, una lìngua arromanza autònoma chi no est
 de sa pròpriu famìllia che is lìnguas itàlicas (Onnis, 2019), est fueddau
 ancora, de manera fitiana pruschetotu in sa parti de susu de s' Ìsula (Mongili,
