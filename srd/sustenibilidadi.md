@@ -132,10 +132,10 @@ sardus (Danver, 2015).
 Is sardus funt una truma ètnica aìnturu de s' Itàlia de sa pròpriu manera che is
 gallesus, is scotzesus, e is irlandesus chi funt trumas ètnicas aìnturu de is
 Ìsulas Britànnicas. Mancai in diis de oi s' Italianu est sa prus lìngua fueddada
-in Sardìnnia, sa lìngua locali sarda, una lìngua arromàngia autònoma chi no est
+in Sardìnnia, sa lìngua locali sarda, una lìngua arromanza autònoma chi no est
 de sa pròpriu famìllia che is lìnguas itàlicas (Onnis, 2019), est fueddau
-ancora, de manera pretzisa in sa parti de susu de s' Ìsula (Mongili, 2012).
-Àteras lìnguas fueddadas in Sardìnnia funt: su catalanu, su gadduresu, su
+ancora, de manera fitiana pruschetotu in sa parti de susu de s' Ìsula (Mongili,
+2012). Àteras lìnguas fueddadas in Sardìnnia funt: su catalanu, su gadduresu, su
 tataresu, e su tabarchinu. Custa diversidadi donat traditzionis culturalis
 arricas e un' identidadi forti, ma s' italianisadura, chi fiat prus forti in s'
 era fascista de is annus 20, iat - e est ancora - spacendi custa intessidura
