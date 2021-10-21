@@ -9,7 +9,7 @@ totu sa stòria de sa filosofia polìtica, ma in is annus prus acanta a nosu cus
 fueddu s' est furriau a moda, pighendi sentidu no craru (Du Pisani, 2006;
 Spindler, 2013).
 
-In su 1987, s' Arrelata Brundtland fata de is Natzionis unias iat strantaxau una
+In su 1987, s' Arrelata Brundtland fata de is Natzionis Unias iat strantaxau una
 strutura de arrexonu polìticu po traballai in custu campu, e iat donau custa
 definidura chi dd' amitit genti meda (Comissioni mondiali po su logu e s'
 adelantamentu, 1987):
@@ -19,7 +19,7 @@ adelantamentu, 1987):
 > abisòngius insoru."
 
 In su 2017, s' ONU at allistau 17 punnas po chi fessint "unu progetu po otenni
-unu mellus e prus benidori sustenìbili po totus" (Natzionis unias, 2017):
+unu mellus e prus benidori sustenìbili po totus" (Natzionis Unias, 2017):
 
 1.  Firmai sa poburesa de calisisiat bisura e in dònnia logu.
 2.  Firmai su fàmini, sodigai sa seguresa de tenni cosa de papai bona, e promovi
@@ -61,7 +61,7 @@ Unias, 2017).*
 Po acrarai is punnas, s' ONU at donau una listada de *tareas* puru po dònnia
 punna, po unu suma de 169. Mancai unus cantu tareas a s' acabu ballant po paìsus
 chi funt crescendi sceti, àterus funt prus generalis meda. Po atopu, si podit
-biri custu (Natzionis unias, 2017):
+biri custu (Natzionis Unias, 2017):
 
 > "Amellorai sèmpiri de prus [...] s' imperu abbistu de is arresorsas de su
 > mundu, siat in su spaciai siat in su produsi e circai in totu is maeras de
@@ -191,7 +191,7 @@ Aru, A., Tomasi, D. and Vacca, A. (2006). Chapter 17: Aspects of Environment
 Degradation in Sardinia. In: Tennyson, L. and Zingari P. C. eds., *Preparing for
 the next generation of watershed management programmes and projects: Water
 Resources for the Future*. Organitzazioni po su Papai e sa Laurera de is
-Natzionis unias (FAO), pp. 172-173.
+Natzionis Unias (FAO), pp. 172-173.
 
 Biagi, B., Dettori, B., Paci, R. and Usai, S. (2019). *Economic development in
 Sardinia: overcoming the insularity gap*. Centro Ricerche Economiche Nord Sud
@@ -260,7 +260,7 @@ Sardìnnia, pp. 87-94.
 Mongili, A. (2015). *Topologie postcoloniali. Innovazione e modernizzazione in
 Sardegna*. Casteddu: Condaghes, ch. 1, sec. 2. ISBN 978-8873562573
 
-Natzionis unias (2017). *Resolution adopted by the General Assembly on 6 July
+Natzionis Unias (2017). *Resolution adopted by the General Assembly on 6 July
 2017, Work of the Statistical Commission pertaining to the 2030 Agenda for
 Sustainable Development*.
 
