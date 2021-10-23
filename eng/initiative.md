@@ -2,9 +2,9 @@ The initiative
 ==============
 
 Sardinia Sustainability wants to be a network of people who work towards
-sustainable development in Sardinia, above all "technical people" who work with
-data: engineers, computer, natural, and social scientists, mathematicians,
-economists, doctors, archaeologists, linguists...
+sustainable development in Sardinia by analising and visualising data. The
+initiative is open to anybody: engineers, computer, natural, and social
+scientists, mathematicians, economists, doctors, archaeologists, linguists...
 
 How the initiative works
 ------------------------
