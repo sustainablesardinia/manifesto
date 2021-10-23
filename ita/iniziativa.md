@@ -2,9 +2,9 @@ L'iniziativa
 ============
 
 Sardinia Sustainability vuole essere una rete di persone che lavorano per lo
-sviluppo sostenibile in Sardegna, soprattutto tecnici che lavorano con dati:
-ingegneri, informatici, studiosi di scienze naturali o sociali, matematici,
-economisti, medici, archeologi, linguisti...
+sviluppo sostenibile in Sardegna e lo fanno utilizzando i dati. L' iniziativa è
+aperta a tutti: ingegneri, informatici, studiosi di scienze naturali o sociali,
+matematici, economisti, medici, archeologi, linguisti...
 
 Come funziona l'iniziativa
 --------------------------
