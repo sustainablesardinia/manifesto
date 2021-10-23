@@ -131,21 +131,21 @@ sardus (Danver, 2015).
 
 Is sardus funt una truma ètnica aìnturu de s' Itàlia de sa pròpriu manera che is
 gallesus, is scotzesus, e is irlandesus chi funt trumas ètnicas aìnturu de is
-Ìsulas Britànnicas. Mancai in diis de oi s' Italianu est sa prus lìngua fueddada
+Ìsulas Britànnicas. Mancai in diis de oi s' italianu est sa prus lìngua fueddada
 in Sardìnnia, sa lìngua locali sarda, una lìngua arromanza autònoma chi no est
-de sa pròpriu famìllia che is lìnguas itàlicas (Onnis, 2019), est fueddau
-ancora, de manera fitiana pruschetotu in sa parti de susu de s' Ìsula (Mongili,
-2012). Àteras lìnguas fueddadas in Sardìnnia funt: su catalanu, su gadduresu, su
-tataresu, e su tabarchinu. Custa diversidadi donat traditzionis culturalis
-arricas e un' identidadi forti, ma s' italianisadura, chi fiat prus forti in s'
-era fascista de is annus 20, iat - e est ancora - spacendi custa intessidura
-tanti arrica. Custu est poita ca sa genti acàpiat sa lìngua italiana a is
-promissas de amelloramentu de is conditzionis socio-econòmicas insoru (Schjerve,
-1993; Mongili, 2012), a costu de s' alienadura culturali. Custu acuntèssimentu
-de bregùngia culturali (*culture cringe*) s' amostat poita est ca sa situazioni
-de sa sotziedadi e de s' economia de sa Sardìnnia si podit contai cun is ainas
-de is stùdius postcolonialis (Sulis, 2012; Mongili, 2015), de manera simbillanti
-a su chi ant fatu po sa Scòtzia (Macdonald, 2006).
+unu dialetu de s' italianu, est fueddau ancora mancai meda bortas che lìngua de
+eredeu sceti (Onnis, 2019). Àteras lìnguas fueddadas in Sardìnnia funt: su
+catalanu, su gadduresu, su tataresu, e su tabarchinu. Custa diversidadi donat
+traditzionis culturalis arricas e un' identidadi forti, ma s' italianisadura,
+chi fiat prus forti in s' era fascista de is annus 20, iat - e est ancora -
+spacendi custa intessidura tanti arrica. Custu est poita ca sa genti acàpiat sa
+lìngua italiana a is promissas de amelloramentu de is conditzionis
+socio-econòmicas insoru (Schjerve, 1993; Mongili, 2012), a costu de s'
+alienadura culturali. Custu acuntèssimentu de bregùngia culturali (*culture
+cringe*) s' amostat poita est ca sa situazioni de sa sotziedadi e de s' economia
+de sa Sardìnnia si podit contai cun is ainas de is stùdius postcolonialis
+(Sulis, 2012; Mongili, 2015), de manera simbillanti a su chi ant fatu po sa
+Scòtzia (Macdonald, 2006).
 
 Apustis de sa Segunda Gherra Mundiali, sa Sardìnnia fiat una de is prus
 arregionis pòburas de Europa. Inghitzendi de is annus 50, s' industrialisadura

@@ -122,18 +122,18 @@ group: the Sardinians (Danver, 2015).
 The Sardinians are an ethnic group within Italy similarly to how the Welsh, the
 Scots, and the Irish are ethnic groups within the British Islands. Although
 today Italian is the most spoken language on the Sardinia, the local Sardinian
-language, an autonomous Romance language that does not belong to the family of
-italic languages (Onnis, 2019), is still spoken, especially in the northern part
-of the island (Mongili, 2012). Other languages spoken in Sardinia are: Catalan,
-Gallurese, Sassarese, and Tabarkin. This diversity gives the island rich
-cultural traditions and a strong identity, but Italianisation, which had its
-peak during the fascist era of the 1920s, has – and still is – eroding this rich
-cultural fabric. This is because the population associates the Italian language
-with promises of improvement of their socio-economic conditions (Schjerve, 1993;
-Mongili, 2012), at the cost of cultural alienation. This process of *cultural
-cringe* shows why the social and economic situation of Sardinia can be described
-with the tools provided by postcolonial studies (Sulis, 2012; Mongili, 2015),
-similarly to what has been done for Scotland (Macdonald, 2006).
+language, an autonomous Romance language that is not a dialect of Italian, is
+still spoken albeit often as a heritage language (Onnis, 2019). Other languages
+spoken in Sardinia are: Catalan, Gallurese, Sassarese, and Tabarkin. This
+diversity gives the island rich cultural traditions and a strong identity, but
+Italianisation, which had its peak during the fascist era of the 1920s, has –
+and still is – eroding this rich cultural fabric. This is because the population
+associates the Italian language with promises of improvement of their
+socio-economic conditions (Schjerve, 1993; Mongili, 2012), at the cost of
+cultural alienation. This process of *cultural cringe* shows why the social and
+economic situation of Sardinia can be described with the tools provided by
+postcolonial studies (Sulis, 2012; Mongili, 2015), similarly to what has been
+done for Scotland (Macdonald, 2006).
 
 After the Second World War, Sardinia was one of the poorest regions in the whole
 of Europe. Starting from the 1950s, the induced industrialisation of the
