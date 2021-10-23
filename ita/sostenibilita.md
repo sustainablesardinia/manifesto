@@ -132,19 +132,19 @@ etnico locale: i sardi (Danver, 2015).
 I sardi sono un gruppo etnico in Italia in modo simile a come i gallesi, gli
 scozzesi e gli irlandesi sono gruppi etnici nelle isole britanniche. Sebbene
 oggi l'italiano sia la lingua più parlata in Sardegna, la locale lingua sarda,
-una lingua romanza autonoma che non appartiene alla famiglia delle lingue
-italiche (Onnis, 2019), è ancora parlata, soprattutto nella parte settentrionale
-dell'isola (Mongili, 2012). Altre lingue parlate in Sardegna sono: il catalano,
-il gallurese, il sassarese e il tabarchino. Questa diversità rende l'isola ricca
-tradizioni culturali e le da una forte identità, sebbene l'italianizzazione, che
-ha avuto il suo picco durante l'era fascista degli anni '20, ha eroso – e sta
-erodendo tuttora – questo ricco tessuto culturale. Questo perché la popolazione
-associa la lingua italiana con promesse di miglioramento delle loro condizioni
-socio-economiche (Schjerve, 1993; Mongili, 2012), al prezzo dell'alienazione
-culturale. Questo processo di *culturale cringe* mostra perché si può descrivere
-la situazione sociale ed economica della Sardegna con gli strumenti forniti
-dagli studi postcoloniali (Sulis, 2012; Mongili, 2015), analogamente a quanto
-fatto per la Scozia (Macdonald, 2006).
+una lingua romanza autonoma che è un dialetto dell'italiano, è ancora parlata
+anche se spesso come "lingua ereditaria" (Onnis, 2019). Altre lingue parlate in
+Sardegna sono: il catalano, il gallurese, il sassarese e il tabarchino. Questa
+diversità rende l'isola ricca tradizioni culturali e le da una forte identità,
+sebbene l'italianizzazione, che ha avuto il suo picco durante l'era fascista
+degli anni '20, ha eroso – e sta erodendo tuttora – questo ricco tessuto
+culturale. Questo perché la popolazione associa la lingua italiana con promesse
+di miglioramento delle loro condizioni socio-economiche (Schjerve, 1993;
+Mongili, 2012), al prezzo dell'alienazione culturale. Questo processo di
+*culturale cringe* mostra perché si può descrivere la situazione sociale ed
+economica della Sardegna con gli strumenti forniti dagli studi postcoloniali
+(Sulis, 2012; Mongili, 2015), analogamente a quanto fatto per la Scozia
+(Macdonald, 2006).
 
 Dopo la Seconda Guerra Mondiale, la Sardegna era una delle regioni più povere
 dell'intera Europa. A partire dagli anni cinquanta, l'industrializzazione
