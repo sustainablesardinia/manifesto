@@ -3,8 +3,8 @@ The initiative
 
 Sardinia Sustainability wants to be a network of people who work towards
 sustainable development in Sardinia by analising and visualising data. The
-initiative is open to anybody: engineers, computer, natural, and social
-scientists, mathematicians, economists, doctors, archaeologists, linguists...
+initiative is open to everybody and it's multi-disciplinary, involving a range
+of subjects: from ecology to linguistics, from economics to archaeology.
 
 How the initiative works
 ------------------------

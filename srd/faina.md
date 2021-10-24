@@ -3,9 +3,8 @@ Sa faina
 
 Sardinia Sustainability bolit essi un' arretza de genti chi traballat po s'
 adelantamentu sustenìbili in Sardìnnia, analisendi e visualisendi informus. Sa
-faina est aberta a totus: ingennieris, scientziaus de su computai, de sa
-naturalesa, e de sa sotziedadi, matemàticus, economistas, mèdicus, archeòlogus,
-linguistas...
+faina est aberta a totus, est multi-disciplinària, e pertocat chistionis
+diferentis: de s' ecologia a sa linguìstica, de s' economia a s' archeologia.
 
 Comenti traballat sa faina
 --------------------------

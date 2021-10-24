@@ -2,15 +2,15 @@ L'iniziativa
 ============
 
 Sardinia Sustainability vuole essere una rete di persone che lavorano per lo
-sviluppo sostenibile in Sardegna analizzando e visualizzando dati. L' iniziativa
-è aperta a tutti: ingegneri, informatici, studiosi di scienze naturali o
-sociali, matematici, economisti, medici, archeologi, linguisti...
+sviluppo sostenibile in Sardegna analizzando e visualizzando dati. L'iniziativa
+è aperta a tutti ed è multi-disciplinare, coinvolgendo ambiti diversi:
+dall'ecologia alla linguistica, dall'economia all'archeologia.
 
 Come funziona l'iniziativa
 --------------------------
 
 L'iniziativa ha una raccolta "strutturata" di progetti che seguono lo stesso
-manifesto, e comunicano tra loro. C'è un *coordinatore* che segue tutta
+manifesto e sono connessi tra loro. C'è un *coordinatore* che segue tutta
 l'iniziativa, e un *coordinatore di progetto* per ciascun progetto. La maggior
 parte dei progetti sono su [GitHub](https://github.com/sardiniasustainability),
 e chiunque voglia può contribuire liberamente senza sentirsi ufficialmente

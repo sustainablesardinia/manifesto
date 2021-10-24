@@ -59,26 +59,26 @@ goals](https://i.postimg.cc/m2sTqjsr/1280px-sustainable-development-goals.png)\
 Unias, 2017).*
 
 Po acrarai is punnas, s' ONU at donau una listada de *tareas* puru po dònnia
-punna, po unu suma de 169. Mancai unus cantu tareas a s' acabu ballant po paìsus
-chi funt crescendi sceti, àterus funt prus generalis meda. Po atopu, si podit
+punna, po unu suma de 169. Mancai unus cantu tareas a s' acabu ballant sceti po paìsus
+chi funt adelantendi-sì, àterus funt prus generalis meda. Po atopu, si podit
 biri custu (Natzionis Unias, 2017):
 
 > "Amellorai sèmpiri de prus [...] s' imperu abbistu de is arresorsas de su
 > mundu, siat in su spaciai siat in su produsi e circai in totu is maeras de
 > stalla s' adelantamentu de s' ecoonomia e su guastai su logu [...]."
 
-Custa tarea iat a balli siat po paìsus chi funt crescendi siat po partis
-foraneas de paìsus giai crèscïus, sa prus deprìmias in s' economia. In ambaduus
-is situatzionis, s' adelantamentu no sustenìbili si fortzat a sceberai intra
-traballus e impesu, meda bortas cuendi-sì apalas de una suposta
-*sustenibilidadi* po su guadàngiu de is speculadoris (Puggioni, 2014; Tola,
-2016).
+Custa tarea balit siat po paìsus chi funt adelantendi-sì siat po partis foraneas
+de paìsus giai adelantaus, sa prus deprìmias in s' economia. In ambaduus is
+situatzionis, s' adelantamentu no sustenìbili si fortzat a sceberai intra
+traballus e impestu, meda bortas cuendi-sì apalas de sa chi si bolit fai crei
+siat *sustenibilidadi*, po su guadàngiu de is speculadoris (Puggioni, 2014;
+Tola, 2016).
 
 S' agetivu *sustenìbili* tenit prus de unu sentidu e, de manera simbillanti, s'
 adelantamentu sustenìbili tenis prus de una bisura. Una de i-custas bisuras est
-ca no bastat chi siat *aguantàbili* cun is arresorsas chi ddoi ant. S'
+ca no bastat a dda podi *aguantai* cun is arresorsas chi ddoi ant. S'
 adelantamentu sustenìbili depit essi unu *propòsitu chi sigat po meda tempus* de
-cungiminai arresorsas (Daly, 1990):
+aministrai arresorsas (Daly, 1990):
 
 > "Po su chi pertocat s' aministrai arresorsas arrenoàbilis, ddoi ant duus
 > printzìpius banalis de s' adelantamentu sustenìbili. Primu, ca s' arrata de su
@@ -92,14 +92,14 @@ cungiminai arresorsas (Daly, 1990):
 Ita est sa sustenibilidadi computadurali
 ----------------------------------------
 
-Sa sustenibilidadi computadurali est imperai sa scièntzia de su computai po s'
+Sa sustenibilidadi computadurali est s' imperai sa scièntzia de su computai po s'
 adelantamentu sustenìbili, a campus comenti s' ecologia, economia, e stùdius de
 sa sotziedadi. Sa comunidadi de sa sustenibilidadi computadurali pratzit custa
 bidea (Gomes et al., 2019):
 
 > "Sa bidea nostra est ca is scentziaus de su computai podint e iant a depi
-> tenni un' arrolu de importu agiudendi a arresolvi sfidas de sa sotziedadi e de
-> sa naturalesa circhendi unu benidori sustenìbili, e mandendi innantis is
+> tenni un' arrolu de importu agiudendi a arresolvi is sfidas de sa sotziedadi e
+> de sa naturalesa, circhendi unu benidori sustenìbili, e mandendi innantis is
 > scièntzias de su computai puru comenti disciplina."
 
 Sa sustenibilidadi computadurali no est po scientziaus de su computai sceti,
@@ -125,27 +125,27 @@ computadurali:
 Poita sa Sardìnnia?
 -------------------
 
-Sa Sardìnnia est sa segundu prus ìsula manna de su Mari Mesuterràniu e tenit unu
+Sa Sardìnnia est sa segundu prus ìsula manna de su Mari Mesuderràniu e tenit unu
 pòpulu de 1,6 millionis de personis, pruschetotu de sa truma ètnica locali: is
 sardus (Danver, 2015).
 
 Is sardus funt una truma ètnica aìnturu de s' Itàlia de sa pròpriu manera che is
-gallesus, is scotzesus, e is irlandesus chi funt trumas ètnicas aìnturu de is
+gallesus, is scotzesus, e is irlandesus chifunt trumas ètnicas aìnturu de is
 Ìsulas Britànnicas. Mancai in diis de oi s' italianu est sa prus lìngua fueddada
 in Sardìnnia, sa lìngua locali sarda, una lìngua arromanza autònoma chi no est
-unu dialetu de s' italianu, est fueddau ancora mancai meda bortas che lìngua de
-eredeu sceti (Onnis, 2019). Àteras lìnguas fueddadas in Sardìnnia funt: su
-catalanu, su gadduresu, su tataresu, e su tabarchinu. Custa diversidadi donat
-traditzionis culturalis arricas e un' identidadi forti, ma s' italianisadura,
-chi fiat prus forti in s' era fascista de is annus 20, iat - e est ancora -
-spacendi custa intessidura tanti arrica. Custu est poita ca sa genti acàpiat sa
-lìngua italiana a is promissas de amelloramentu de is conditzionis
-socio-econòmicas insoru (Schjerve, 1993; Mongili, 2012), a costu de s'
-alienadura culturali. Custu acuntèssimentu de bregùngia culturali (*culture
-cringe*) s' amostat poita est ca sa situazioni de sa sotziedadi e de s' economia
-de sa Sardìnnia si podit contai cun is ainas de is stùdius postcolonialis
-(Sulis, 2012; Mongili, 2015), de manera simbillanti a su chi ant fatu po sa
-Scòtzia (Macdonald, 2006).
+unu dialetu de s' italianu, est fueddau ancora, mancai meda bortas comenti
+lìngua de eredeu sceti (Onnis, 2019). Àteras lìnguas fueddadas in Sardìnnia
+funt: su catalanu, su gadduresu, su tataresu, e su tabarchinu. Custa diversidadi
+donat traditzionis culturalis arricas e un' identidadi forti a sa Sardìnnia, ma
+s' italianisadura, chi fiat prus forti in s' era fascista de is annus 20, iat -
+e est ancora - spacendi custa intessidura tanti arrica. Custu est poita ca sa
+genti acàpiat sa lìngua italiana a is promissas de amelloramentu de is
+conditzionis socio-econòmicas insoru (Schjerve, 1993; Mongili, 2012), a su
+prètziu de s' alienadura culturali. Custu acuntèssimentu de bregùngia culturali
+(*culture cringe*) s' amostat poita est ca sa situazioni de sa sotziedadi e de
+s' economia de sa Sardìnnia si podit contai cun is ainas de is stùdius
+postcolonialis (Sulis, 2012; Mongili, 2015), de manera simbillanti a su chi ant
+fatu po sa Scòtzia (Macdonald, 2006).
 
 Apustis de sa Segunda Gherra Mundiali, sa Sardìnnia fiat una de is prus
 arregionis pòburas de Europa. Inghitzendi de is annus 50, s' industrialisadura
@@ -155,32 +155,33 @@ de is abitantis, ma s' amelloramentu si fiat allentau a su cumentzu de is annus
 pro capite siat s' arrata de ocupadura funt asuta meda de sa mèdia italiana e de
 sa europea (Commissioni europea, 2010).
 
-Is arresultaus de polìticas de adelantamentu no-sustenìbilis in Sardìnnia si
+Is arresultaus de is polìticas de adelantamentu no-sustenìbilis in Sardìnnia si
 podint biri beni. Giai sa mitadi de su territòriu de sa Sardìnnia est amaletzau
 de su procèdimentu de areticadura, e is arresorsas de àcua sutaterrànias funt de
 cantidadi prus manna de is de apitzus. Pero, sa cuncentradura de nitraus in s'
 àcua est prus arta de sa permìttia de is leis de sa EU, pruschetotu po nexi de
-s' impesu (Ghiglieri and Da Pelo, 2016). Pighendi in cunsideru su livellu de
-degradamentu de sa terra anca ddoi funt minas, chi imoi funt serradas, unu
+s' impestu (Ghiglieri and Da Pelo, 2016). Pighendi in cunsideru su livellu de
+degradamentu de sa terra anca ddoi funt is minas, chi imoi funt serradas, unu
 scritu de s' Organitzatzioni po su Papai e sa Laurera (FAO) fait unu comentu
-amargu (Aru, Tomasi and Vacca, 2006): 
+tristu (Aru, Tomasi and Vacca, 2006): 
 
 > "Is terras tocadas, chi a su cumentzu fiant meda grassas, ddas ant
-> contaminadas de manera no torràbili. Imoi is oritzontis de apitzus tenint
-> baloris artus prumu, e cantidadis de importu de zincu, manganesi e càdimiu."
+> contaminadas de manera chi no fait a ddas torrai. Imoi is oritzontis de
+> apitzus tenint baloris artus de prumu, e cantidadis de importu de zincu,
+> manganesi e càdimiu."
 
-Su turismu no-sustenìbili puru est bessiu problema de logu (Aru, Tomasi and
+Su turismu no-sustenìbili puru est bessiu problema de su logu (Aru, Tomasi and
 Vacca, 2006):
 
-> "Su pigai de acuiferus in àreas de sa costa, chi s' est ammanniau meda meda
+> "Su pigai de acuìferus in àreas de sa costa, chi s' est ammanniau meda meda
 > cun su scopiai de su turismu, no est aministrau de manera dèxili. A dolu
-> mannu, su pigai tropu de s' àcua sutaterrànias at mudau sa balantza cun is
-> àcuas marinas, causendi intradas de sali chi contàminant acuìferus e causendi
+> mannu, su pigai tropu de s' àcuas sutaterrànias at mudau sa balantza cun is
+> àcuas marinas, causendi intradas de sali chi contàminant acuìferus, e causendi
 > depositus de sali in sa terra"
 
-Sa Sardìnnia tenit puru meda giassus militaris, de manera pretzisa logus anca si
+Sa Sardìnnia tenit meda giassus militaris puru, de manera pretzisa logus anca si
 provant armas, chi funt perigulosus siat po sa saludi de sa genti chi ddoi bivit
-acanta siat po s' ecosistema  (Zucchetti, 2005; Cristaldi et al., 2013).
+acanta siat po s' ecosistema (Zucchetti, 2005; Cristaldi et al., 2013).
 
 Po totu custas arrexonis, sa Sardìnnia tenit un' abisòngiu disisperau de
 polìticas de adelantamentu sostenìbili bonas, primu chi siat trigadiu tropu.
