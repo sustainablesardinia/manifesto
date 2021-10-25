@@ -10,15 +10,18 @@ A. Cosa facciamo e perché lo facciamo
 2.  Usiamo le tecniche di *data science* per migliorare la comprensione di
     ambiente, economia e società sarde perché pensiamo che il successo dello
     sviluppo può venire solo da una buona comprensione.
-3.  Apriamo il nostro lavoro e le nostre risorse a tutte le discipline perché
+3.  Lavoriamo nell' ambito della *sostenibilità computazionale*, perchè crediamo
+    che la tecnologia avrà un ruolo importante nella soluzione dei problemi
+    della società e dell'ambiente, per un futuro sostenibile.
+4.  Apriamo il nostro lavoro e le nostre risorse a tutte le discipline perché
     pensiamo che solo svolgendo un lavoro interdisciplinare possiamo affrontare
-    le sfide dello sviluppo sostenibile.
-4.  Diamo potere alle comunità locali in Sardegna attraverso il nostro lavoro,
+    le sfide dello sviluppo sostenibile.  
+5.  Diamo potere alle comunità locali in Sardegna attraverso il nostro lavoro,
     perché pensiamo che lo sviluppo può essere sostenibile solo se sostenuto
     dalle comunità locali *dall'interno*.
-5.  Lavoriamo per la comunità sarda e solo per essa perché vogliamo mantenere i
+6.  Lavoriamo per la comunità sarda e solo per essa perché vogliamo mantenere i
     nostri sforzi concentrati.
-6.  Per assicurarci che i nostri sforzi siano concentrati sui nostri obiettivi,
+7.  Per assicurarci che i nostri sforzi siano concentrati sui nostri obiettivi,
     utilizziamo la seguente definizione: lo sviluppo sostenibile è lo sviluppo
     che:
     * sostituisce qualsiasi risorsa (naturale e creata dall'uomo) con risorse di
@@ -28,19 +31,19 @@ A. Cosa facciamo e perché lo facciamo
     * non necessita di aiuti di stato per il suo mantenimento,
     * fornisce posti di lavoro a tempo pieno alle persone nella comunità,
     * mantiene le entrate finanziarie all'interno della comunità.
-7.  Sosteniamo altre organizzazioni e iniziative in linea con ciò che facciamo
+8.  Sosteniamo altre organizzazioni e iniziative in linea con ciò che facciamo
     perché il nostro successo dipende anche dal loro successo.
-8.  Informiamo le istituzioni, per assicurarci che abbiano dati accurati per
+9.  Informiamo le istituzioni, per assicurarci che abbiano dati accurati per
     prendere le decisioni migliori.
-9.  Informiamo il pubblico per assicurarci che siano a conoscenza dei nostri
+10.  Informiamo il pubblico per assicurarci che siano a conoscenza dei nostri
     sforzi e che siano consapevoli di ciò che accade nella comunità e
     nell'ambiente. Per fare questo, usiamo un linguaggio chiaro e semplice.
-10. Utilizziamo standard tecnici elevati perché vogliamo essere sicuri che ciò
+11. Utilizziamo standard tecnici elevati perché vogliamo essere sicuri che ciò
     che facciamo possa essere utilizzato e mantenuto il più facilmente
     possibile.
-11. Produciamo un lavoro rigoroso perché vogliamo che abbia importanza. Vogliamo
+12. Produciamo un lavoro rigoroso perché vogliamo che abbia importanza. Vogliamo
     che il nostro impatto sia il più alto possibile.
-12. Crediamo che la cultura sia una forma di risorsa creata dall'uomo e vogliamo
+13. Crediamo che la cultura sia una forma di risorsa creata dall'uomo e vogliamo
     aggiungere valorizzare la cultura sarda utilizzando e accrescendo il
     prestigio delle lingue della Sardegna. Per questa ragione:
     * usiamo l'inglese e una qualsiasi lingua locale sarda per le comunicazioni
@@ -53,10 +56,10 @@ A. Cosa facciamo e perché lo facciamo
       varianti logudorese o campidanese), catalana, gallurese, sassarese, o
       tabarchino. L'unica cosa importante è che il testo sia scritto
       correttamente, secondo regole ortografiche pubblicate.
-13. Miriamo ad essere un modello per altre iniziative nel mondo perché le
+14. Miriamo ad essere un modello per altre iniziative nel mondo perché le
     conseguenze dello sviluppo non sostenibile, in particolare il degrado
     ambientale, interessano tutte le comunità del mondo.
-14. Accettiamo qualsiasi contributo da chiunque purché non sia necessario un
+15. Accettiamo qualsiasi contributo da chiunque purché non sia necessario un
     compromesso con i contenuti di questo Manifesto. Questo perché abbiamo
     bisogno di ottenere tutto l'aiuto possibile per raggiungere i nostri
     obiettivi.

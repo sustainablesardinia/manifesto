@@ -10,15 +10,18 @@ A. What we do and why we do it
 2.  We use the techniques of *data science* to improve the understanding of
     Sardinian environment, economics, and society because we think successful
     development can only come from good understanding.
-3.  We open our work and resources to all disciplines because we think only by
+3.  We work in the field of *computational sustainability*, because we believe
+    technology is going to have an important role in the solution of the
+    problems of our society and our environment, towards a sustainable future.
+4.  We open our work and resources to all disciplines because we think only by
     carrying out interdisciplinary work we can address the challenges of
     sustainable development.
-4.  We empower local communities in Sardinia through our work, because we think
+5.  We empower local communities in Sardinia through our work, because we think
     that development can be sustainable only if supported by local communities
     *from within*.
-5.  We work for the Sardinian community and only for it because we want to keep
+6.  We work for the Sardinian community and only for it because we want to keep
     our efforts focused.
-6.  To make sure our efforts are focused on our aims, we attain to the following
+7.  To make sure our efforts are focused on our aims, we attain to the following
     definition: sustainable development is development that 
     * replaces any resources (natural and human-made) with resources of equal or
       greater value,       
@@ -27,18 +30,18 @@ A. What we do and why we do it
     * does not require state aid for its maintenance, 
     * provides full-time jobs to people in the community,
     * keeps any financial revenue within the community.
-7.  We support other organisations and initiatives that align with what we do
+8.  We support other organisations and initiatives that align with what we do
     because our success depends on their success too.
-8.  We inform institutions, to make sure they have accurate data to take the
+9.  We inform institutions, to make sure they have accurate data to take the
     best decisions.
-9.  We inform the public to make sure they are aware of our efforts and they're
+10. We inform the public to make sure they are aware of our efforts and they're
     aware of what is happening in the community and environment. To do this, we
     use clear, simple language.
-10. We attain to high technical standards because we want to make sure what we
+11. We attain to high technical standards because we want to make sure what we
     do can be both used and maintained as easily as possible.
-11. We produce rigorous work because we want it to matter. We want our impact to
+12. We produce rigorous work because we want it to matter. We want our impact to
     be as high as possible.
-12. We believe culture is a form of human-made resource, and we want to add
+13. We believe culture is a form of human-made resource, and we want to add
     value to Sardinian culture by using and increasing the prestige of Sardinian
     languages. For this reason:
     * we use English and any local Sardinian language for internal written
@@ -51,10 +54,10 @@ A. What we do and why we do it
       (either in the Logudorese or Campidanese varieties), Catalan, Gallurese,
       Sassarese, or Tabarkin. The only important thing is that the text is
       written correctly, according to published orthographic rules.
-13. We aim to be a blueprint for other initiatives in the world because the
+14. We aim to be a blueprint for other initiatives in the world because the
     consequences of non-sustainable development, environmental degradation in
     particular, affect all the communities in the world.
-14. We accept any contribution from anybody so long as we don't have to
+15. We accept any contribution from anybody so long as we don't have to
     compromise with the contents of this Manifesto. This is because we need to
     get all the help we can to achieve our aims.
 

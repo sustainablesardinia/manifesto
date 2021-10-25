@@ -11,15 +11,18 @@ A. Ita faeus e poita ddu faeus
     amellorai su cumprendi sa naturalesa, economia, e sotziedadi de sa Sardìnnia
     poita ca pensaus ca un' adelantamentu diciosu podit benni de unu cumprendi
     cumpriu sceti.
-3.  Abereus su traballu e is arresorsas a totu is disciplinas, poita ca pensaus
+3.  Traballaus in su campu de sa *sustenibilidadi computadorali*, poita ca creeus
+    ca sa tennologia at a tenni un' arrolu de importu in s' arresolvi is problemas
+    de sa sotziedadi e de su logu, po unu benidori sustenìbili.
+4.  Abereus su traballu e is arresorsas a totu is disciplinas, poita ca pensaus
     ca sceti chi faeus unu traballu intra-disciplinàriu podeus arresolvi is
     barrancus de s' adelantamentu sustenìbili.
-4.  Donaus fortza a is comunidadis localis de sa Sardìnnia po mori de su
+5.  Donaus fortza a is comunidadis localis de sa Sardìnnia po mori de su
     traballu nostru, poita ca s' adelantamentu podit essi sustenìbili sceti chi
     est agiudau de *aìnturu* de is comunidadis localis.
-5.  Traballaus po sa comunidadi de sa Sardìnnia e sceti po custa poita ca boleus
+6.  Traballaus po sa comunidadi de sa Sardìnnia e sceti po custa poita ca boleus
     tenni is sfortzus nostrus cuncentraus.
-6.  Po assigurai ca is sfortzus nostrus funt cuncentraus asuba is tareas nostras,
+7.  Po assigurai ca is sfortzus nostrus funt cuncentraus asuba is tareas nostras,
     sigheus custa definidura: s' adelantamentu sustenìbili est s' adelantamentu
     chi
     * cambiai calisisiat arresorsas (naturali o fata de òmini) cun arresorsas de
@@ -29,18 +32,18 @@ A. Ita faeus e poita ddu faeus
     * no bolit agiudu de su stadu po sighiri,
     * donat traballu a tempus prenu po sa genti in sa comunidadi,
     * tenit dònnia gadàngiu de dinai aìnturu de sa comunidadi.
-7.  Agiudaus àteras organitzatzionis e fainas chi traballant de manera pari a su
+8.  Agiudaus àteras organitzatzionis e fainas chi traballant de manera pari a su
     chi faeus nosu poita ca sa dìcia nostra benit de sa dìcia insoru puru.
-8.  Informaus is istitutzionis, poita si boleus assigurai chi tèngiant informus
+9.  Informaus is istitutzionis, poita si boleus assigurai chi tèngiant informus
     pretzisus po fai is mellus sceberus.
-9.  Informaus su pùbricu po s' assigurai ca sciint de is sfortzus nostrus e ca
+10. Informaus su pùbricu po s' assigurai ca sciint de is sfortzus nostrus e ca
     sciint ita s' est acuntessendi in sa comunidadi e in su logu. Po fai custu,
     imperaus una fueddada crara e simpli. 
-10. Sigheus standard tènnicus artus poita ca boleus chi su chi faeus si potzat
+11. Sigheus standard tènnicus artus poita ca boleus chi su chi faeus si potzat
     siat imperai siat mantenni de manera sa prus discansosa chi fait.
-11. Produseus traballus de arrigori ca boleus chi siat de importu. Boleus chi
+12. Produseus traballus de arrigori ca boleus chi siat de importu. Boleus chi
     s' efetu de su traballu nostru siat su prus mannu chi fait.
-12. Creeus ca sa cultura est una forma de arresorsa fata de òmini, e boleus
+13. Creeus ca sa cultura est una forma de arresorsa fata de òmini, e boleus
     donai balori a sa cultura sarda imperendi e adelantendi su prestìgiu de is
     lìnguas de Sardìnnia. Po i-custu:
     * imperaus s' ingresu e calisisiat lìngua de Sardìnnia po si fueddai a paris
@@ -53,10 +56,10 @@ A. Ita faeus e poita ddu faeus
       i-custas: sardu (in sa barianti campidanesa o in sa logudoresa), catalanu,
       gadduresu, tataresu, o tabarchinu. S' ùnica cosa de importu est ca su
       scritu siat fatu sighendi arrègulas de ortografias pubricadas.
-13. Boleus essi unu mollu po àteras fainas in su mundu poita ca is
+14. Boleus essi unu mollu po àteras fainas in su mundu poita ca is
     conseguèntzias de s' adelantamentu no-sustenìbili, e de manera pretzisa su
     degradamentu de su logu, tocant totu is comunidadis de su mundu.
-14. Acetaus contribudus de chinisiollat, chi no si depat fai sceberu de is
+15. Acetaus contribudus de chinisiollat, chi no si depat fai sceberu de is
     cuntènnius de i-custu manifestu. Custu est ca teneus abisòngiu de agiudu
     meda po s' acostai a is tareas nostras.
 

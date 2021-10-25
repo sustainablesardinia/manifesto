@@ -9,12 +9,13 @@ of subjects: from ecology to linguistics, from economics to archaeology.
 How the initiative works
 ------------------------
 
-The initiative has a structure collection of projects that follow the same
-manifesto, and communicate with each other. There's a *coordinator* who follows
-the whole initiative, and a *project coordinator* for each project. Most
-projects are on [GitHub](https://github.com/sardiniasustainability) and whoever
-wants can contribute freely, without feeling attached to the initiative, if they
-don't want to.
+The initiative has a structured collection of projects, mostly software
+projects, that follow the same manifesto, and relate to each other. There's a
+*coordinator* who follows the whole initiative, and a *project coordinator* for
+each project. Most projects are on
+[GitHub](https://github.com/sardiniasustainability) and whoever wants can
+contribute freely, without feeling attached to the initiative, if they don't
+want to.
 
 How to help
 -----------

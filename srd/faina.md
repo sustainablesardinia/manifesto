@@ -9,12 +9,13 @@ diferentis: de s' ecologia a sa linguìstica, de s' economia a s' archeologia.
 Comenti traballat sa faina
 --------------------------
 
-Sa faina tenit un' arregorta "struturada" de progetus chi sighint su pròpriu
-manifestu, e si fueddant a pari. Ddoi est unu *coordinadori* chi sighit totu sa
-faina, e unu *coordinadori de progetu* po dònnia progetu. Sa prus parti manna de
-is progetus funt in [GitHub](https://github.com/sardiniasustainability) e is chi
-bolint podint fai contributus de manera lìbera, chena de s' intendi acapiaus a
-sa faina chi no bolint. 
+Sa faina tenit un' arregorta struturada de progetus, pruschetotu programas de sa
+computadora, chi sighint su pròpriu manifestu, e s' arrelatant a pari. Ddoi est
+unu *coordinadori* chi sighit totu sa faina, e unu *coordinadori de progetu* po
+dònnia progetu. Sa prus parti manna de is progetus funt in
+[GitHub](https://github.com/sardiniasustainability) e is chi bolint podint fai
+contributus de manera lìbera, chena de s' intendi acapiaus a sa faina chi no
+bolint. 
 
 Po agiudai
 ----------
