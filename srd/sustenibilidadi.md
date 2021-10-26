@@ -1,6 +1,10 @@
 Ita bolit nai sustenibilidadi?
 ==============================
 
+Po acrarai su chi bolit fai sa faina de Sardinia Sustainability, depeus fueddai
+de tres chistionis: s' adelantamentu sustenìbili, sa sustenibilidadi
+informàtica, e cali funt is barrancus de sa Sardìnnia po su chi pertocat sa sustenibilidadi.
+
 Ita est s' adelantamentu sustenìbili?
 -------------------------------------
 
@@ -89,26 +93,25 @@ aministrai arresorsas (Daly, 1990):
 > custas abilesas depit essi tratau che spaciai capitali, e duncas che cosa no
 > sustenìbili."
 
-Ita est sa sustenibilidadi computadurali
-----------------------------------------
+Ita est sa sustenibilidadi informàtica
+--------------------------------------
 
-Sa sustenibilidadi computadurali est s' imperai sa scièntzia de su computai po s'
-adelantamentu sustenìbili, a campus comenti s' ecologia, economia, e stùdius de
-sa sotziedadi. Sa comunidadi de sa sustenibilidadi computadurali pratzit custa
-bidea (Gomes et al., 2019):
+Sa sustenibilidadi informàtica (*computational sustainability*) est s' imperai
+s' informàtica po s' adelantamentu sustenìbili, a campus comenti s' ecologia,
+economia, e stùdius de sa sotziedadi. Sa comunidadi de sa sustenibilidadi
+informàtica pratzit custa bidea (Gomes et al., 2019):
 
-> "Sa bidea nostra est ca is scentziaus de su computai podint e iant a depi
-> tenni un' arrolu de importu agiudendi a arresolvi is sfidas de sa sotziedadi e
-> de sa naturalesa, circhendi unu benidori sustenìbili, e mandendi innantis is
-> scièntzias de su computai puru comenti disciplina."
+> "Sa bidea nostra est ca is informàticus podint e iant a depi tenni un' arrolu
+> de importu agiudendi a arresolvi is sfidas de sa sotziedadi e de sa
+> naturalesa, circhendi unu benidori sustenìbili, e mandendi innantis s'
+> informàtica puru comenti disciplina."
 
-Sa sustenibilidadi computadurali no est po scientziaus de su computai sceti,
-perou. Po tenni fortuna, sa sustenibilidadi computadurali bolit su traballai
-imparis de meda espertus in is scièntzias de sa sotziedadi, de su logu, e de sa
-naturalesa.
+Sa sustenibilidadi informàtica no est po informàticus sceti, perou. Po tenni
+fortuna, sa sustenibilidadi informàtica bolit su traballai imparis de meda
+espertus in is scièntzias de sa sotziedadi, de su logu, e de sa naturalesa.
 
 Custus funt atopus de traballus fatus in su campu de sa sustenibilidadi
-computadurali:
+informàtica:
 
 - Una manera otimisada de torrai a agualai sa flota de bicicretas de
   *bike-sharing* in NYC imperendi *crowdsourcing* (Freund, Henderson and Shmoys,
@@ -122,8 +125,8 @@ computadurali:
 - Sa faina *Global Forest Watch*, chi controllat su spadentamentu e is fogus in
   is padentis in totu su mundu (Global Forest Watch, 2014).
 
-Poita sa Sardìnnia?
--------------------
+Poita s' interessamentu po sa Sardìnnia?
+----------------------------------------
 
 Sa Sardìnnia est sa segundu prus ìsula manna de su Mari Mesuderràniu e tenit unu
 pòpulu de 1,6 millionis de personis, pruschetotu de sa truma ètnica locali: is

@@ -1,6 +1,10 @@
 What does sustainability mean?
 ==============================
 
+To clarify what Sardinia Sustainability aims to achieve, we need to talk about
+three topics: sustainable development, computational sustainability, and which
+are the sustainability problems in Sardinia.
+
 What is sustainable development?
 --------------------------------
 
@@ -112,8 +116,8 @@ sustainability.
 - The Global Forest Watch project, which monitors deforestation and forest fires
   throughout the globe (Global Forest Watch, 2014).
 
-Why Sardinia?
--------------
+Why the interest in Sardinia?
+-----------------------------
 
 Sardinia is the second-largest island in the Mediterranean Sea, It has a
 population of about 1.6 million people, mostly belonging to the local ethnic

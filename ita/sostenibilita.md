@@ -1,6 +1,10 @@
 Cosa significa sostenibilità?
 =============================
 
+Per chiarire gli scopi di Sardinia Sustainability, dobbiamo parlare di tre
+argomenti: lo sviluppo sostenibile, la sostenibilità computazionale, e quali
+sono i problemi della Sardegna riguardo la sostenibilità.
+
 Che cos'è lo sviluppo sostenibile?
 ----------------------------------
 
@@ -122,8 +126,8 @@ dell'informatica sostenibilità.
 - Il progetto Global Forest Watch, che monitora la deforestazione e gli incendi
   boschivi in tutto il mondo (Global Forest Watch, 2014).
 
-Perché la Sardegna?
--------------------
+Perché l'interesse per la Sardegna?
+-----------------------------------
 
 La Sardegna è la seconda isola più grande del Mar Mediterraneo e ha un
 popolazione di circa 1,6 milioni di persone, per lo più appartenenti al gruppo
