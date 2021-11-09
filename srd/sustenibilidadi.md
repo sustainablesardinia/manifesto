@@ -87,9 +87,9 @@ aministrai arresorsas (Daly, 1990):
 > "Po su chi pertocat s' aministrai arresorsas arrenoàbilis, ddoi ant duus
 > printzìpius banalis de s' adelantamentu sustenìbili. Primu, ca s' arrata de su
 > spaciai depit agualai sa de s' ingenerai (produsi sustinìbili). Segundu, ca is
-> arratas de emitidura de àliga depint agualai s' abilesa de metiri de s'
+> arratas de emitidura de àliga depint agualai s' abilesa de matiri de s'
 > ecosistema anca s' àliga etotu est emìtia. Is abilesas de torrai a ingenerai e
-> de metiri depint essi tratadas che capitali naturali, e su faddiri de mantenni
+> de matiri depint essi tratadas che capitali naturali, e su faddiri de mantenni
 > custas abilesas depit essi tratau che spaciai capitali, e duncas che cosa no
 > sustenìbili."
 
