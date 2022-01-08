@@ -67,7 +67,7 @@ punna, po unu suma de 169. Mancai unus cantu tareas a s' acabu ballant sceti po 
 chi funt adelantendi-sì, àterus funt prus generalis meda. Po atopu, si podit
 biri custu (Natzionis Unias, 2017):
 
-> "Amellorai sèmpiri de prus [...] s' imperu abbistu de is arresorsas de su
+> "Amellorai sèmpiri de prus [...] s' imperu abbistu de is siendas de su
 > mundu, siat in su spaciai siat in su produsi e circai in totu is maeras de
 > stalla s' adelantamentu de s' ecoonomia e su guastai su logu [...]."
 
@@ -80,11 +80,11 @@ Tola, 2016).
 
 S' agetivu *sustenìbili* tenit prus de unu sentidu e, de manera simbillanti, s'
 adelantamentu sustenìbili tenis prus de una bisura. Una de i-custas bisuras est
-ca no bastat a dda podi *aguantai* cun is arresorsas chi ddoi ant. S'
+ca no bastat a dda podi *aguantai* cun is siendas chi ddoi ant. S'
 adelantamentu sustenìbili depit essi unu *propòsitu chi sigat po meda tempus* de
-aministrai arresorsas (Daly, 1990):
+aministrai is siendas (Daly, 1990):
 
-> "Po su chi pertocat s' aministrai arresorsas arrenoàbilis, ddoi ant duus
+> "Po su chi pertocat s' aministrai siendas annoàbilis, ddoi ant duus
 > printzìpius banalis de s' adelantamentu sustenìbili. Primu, ca s' arrata de su
 > spaciai depit agualai sa de s' ingenerai (produsi sustinìbili). Segundu, ca is
 > arratas de emitidura de àliga depint agualai s' abilesa de matiri de s'
@@ -152,7 +152,7 @@ fatu po sa Scòtzia (Macdonald, 2006).
 
 Apustis de sa Segunda Gherra Mundiali, sa Sardìnnia fiat una de is prus
 arregionis pòburas de Europa. Inghitzendi de is annus 50, s' industrialisadura
-indùsia de sa *Faina de Arrenascimentu* iat amellorau is conditzionis econòmicas
+indùsia de sa *Faina d' Arrenascimentu* iat amellorau is conditzionis econòmicas
 de is abitantis, ma s' amelloramentu si fiat allentau a su cumentzu de is annus
 70 finsas a si firmai paris (Biagi et al., 2019). In diis de oi, siat s' arrenda
 pro capite siat s' arrata de ocupadura funt asuta meda de sa mèdia italiana e de
@@ -160,7 +160,7 @@ sa europea (Commissioni europea, 2010).
 
 Is arresultaus de is polìticas de adelantamentu no-sustenìbilis in Sardìnnia si
 podint biri beni. Giai sa mitadi de su territòriu de sa Sardìnnia est amaletzau
-de su procèdimentu de areticadura, e is arresorsas de àcua sutaterrànias funt de
+de su procèdimentu de areticadura, e is siendas de àcua sutaterrànias funt de
 cantidadi prus manna de is de apitzus. Pero, sa cuncentradura de nitraus in s'
 àcua est prus arta de sa permìttia de is leis de sa EU, pruschetotu po nexi de
 s' impestu (Ghiglieri and Da Pelo, 2016). Pighendi in cunsideru su livellu de
