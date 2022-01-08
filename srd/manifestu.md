@@ -15,7 +15,7 @@ A. Ita faeus e poita ddu faeus
     sustainability*), poita ca creeus ca sa tennologia at a tenni un' arrolu de
     importu in s' arresolvi is problemas de sa sotziedadi e de su logu, po unu
     benidori sustenìbili.
-4.  Abereus su traballu e is arresorsas a totu is disciplinas, poita ca pensaus
+4.  Abereus su traballu e is siendas a totu is disciplinas, poita ca pensaus
     ca sceti chi faeus unu traballu intra-disciplinàriu podeus arresolvi is
     barrancus de s' adelantamentu sustenìbili.
 5.  Donaus fortza a is comunidadis localis de sa Sardìnnia po mori de su
@@ -26,9 +26,9 @@ A. Ita faeus e poita ddu faeus
 7.  Po assigurai ca is sfortzus nostrus funt cuncentraus asuba is tareas nostras,
     sigheus custa definidura: s' adelantamentu sustenìbili est s' adelantamentu
     chi
-    * cambiai calisisiat arresorsas (naturali o fata de òmini) cun arresorsas de
+    * cambiai calisisiat siendas (naturali o fata de òmini) cun siendas de
       su pròpriu balori o de balori prus mannu.
-    * no scerat una calidadi de arresorsa po un' àtera,
+    * no scerat una calidadi de sienda po un' àtera,
     * podit sighiri chena de acabu,
     * no bolit agiudu de su stadu po sighiri,
     * donat traballu a tempus prenu po sa genti in sa comunidadi,
@@ -44,7 +44,7 @@ A. Ita faeus e poita ddu faeus
     siat imperai siat mantenni de manera sa prus discansosa chi fait.
 12. Produseus traballus de arrigori ca boleus chi siat de importu. Boleus chi
     s' efetu de su traballu nostru siat su prus mannu chi fait.
-13. Creeus ca sa cultura est una forma de arresorsa fata de òmini, e boleus
+13. Creeus ca sa cultura est una forma de sienda fata de òmini, e boleus
     donai balori a sa cultura sarda imperendi e adelantendi su prestìgiu de is
     lìnguas de Sardìnnia. Po i-custu:
     * imperaus s' ingresu e calisisiat lìngua de Sardìnnia po si fueddai a paris
