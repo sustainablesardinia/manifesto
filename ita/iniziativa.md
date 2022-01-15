@@ -1,7 +1,7 @@
 L'iniziativa
 ============
 
-Sardinia Sustainability vuole essere una rete di persone che lavorano per lo
+Sustainable Sardinia vuole essere una rete di persone che lavorano per lo
 sviluppo sostenibile in Sardegna analizzando e visualizzando dati. L'iniziativa
 è aperta a tutti ed è multi-disciplinare, coinvolgendo ambiti diversi:
 dall'ecologia alla linguistica, dall'economia all'archeologia.

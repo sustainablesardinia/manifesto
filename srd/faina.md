@@ -1,7 +1,7 @@
 Sa faina
 ========
 
-Sardinia Sustainability bolit essi un' arretza de genti chi traballat po s'
+Sustainable Sardinia bolit essi un' arretza de genti chi traballat po s'
 adelantamentu sustenìbili in Sardìnnia, analisendi e visualisendi informus. Sa
 faina est aberta a totus, est multi-disciplinària, e pertocat chistionis
 diferentis: de s' ecologia a sa linguìstica, de s' economia a s' archeologia.
@@ -25,4 +25,4 @@ Chi unu/a bolit agiudai podit:
   [GitHub](https://github.com/sardiniasustainability), e fai unu contributu de
   sa pròpriu manera de calisisiat progetu *open-source*.
 * proponni unu progetu, intreghendi [unu curreu letròngiu a s' indirìtziu de
-  Sardinia Sustainability](mailto:sardiniasustainability@mail.com).
+  Sustainable Sardinia](mailto:sardiniasustainability@mail.com).

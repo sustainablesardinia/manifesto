@@ -1,7 +1,7 @@
 What does sustainability mean?
 ==============================
 
-To clarify what Sardinia Sustainability aims to achieve, we need to talk about
+To clarify what Sustainable Sardinia aims to achieve, we need to talk about
 three topics: sustainable development, computational sustainability, and which
 are the sustainability problems in Sardinia.
 

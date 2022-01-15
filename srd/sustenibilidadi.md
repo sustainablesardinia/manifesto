@@ -1,7 +1,7 @@
 Ita bolit nai sustenibilidadi?
 ==============================
 
-Po acrarai su chi bolit fai sa faina de Sardinia Sustainability, depeus fueddai
+Po acrarai su chi bolit fai sa faina de Sustainable Sardinia, depeus fueddai
 de tres chistionis: s' adelantamentu sustenìbili, sa sustenibilidadi
 informàtica, e cali funt is barrancus de sa Sardìnnia po su chi pertocat sa sustenibilidadi.
 

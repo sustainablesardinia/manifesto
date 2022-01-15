@@ -1,7 +1,7 @@
 The initiative
 ==============
 
-Sardinia Sustainability wants to be a network of people who work towards
+Sustainable Sardinia wants to be a network of people who work towards
 sustainable development in Sardinia by analysing and visualising data. The
 initiative is open to everybody and it's multi-disciplinary, involving a range
 of subjects: from ecology to linguistics, from economics to archaeology.
@@ -24,5 +24,5 @@ Whoever wants to help can:
 * take a look at the projects on the website or on 
   [GitHub](https://github.com/sardiniasustainability), and contribute in the
   same way as any open-source project.
-* propose a project, by [sending an email to Sardinia Sustainability's
+* propose a project, by [sending an email to Sustainable Sardinia's
   address](mailto:sardiniasustainability@mail.com).

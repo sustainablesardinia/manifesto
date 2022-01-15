@@ -1,7 +1,7 @@
 Cosa significa sostenibilità?
 =============================
 
-Per chiarire gli scopi di Sardinia Sustainability, dobbiamo parlare di tre
+Per chiarire gli scopi di Sustainable Sardinia, dobbiamo parlare di tre
 argomenti: lo sviluppo sostenibile, la sostenibilità computazionale, e quali
 sono i problemi della Sardegna riguardo la sostenibilità.
 
