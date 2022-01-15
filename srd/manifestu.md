@@ -5,16 +5,16 @@ A. Ita faeus e poita ddu faeus
 ------------------------------
 
 1.  Creaus programas po sa computadora po permiti s' adelantamentu sustenìbili
-    in Sardìnnia, poita ca creeus ca sa tennologia tenit un' arrolu is s'
-    arresolvi is barrancus de sa sotziedadi e de su logu.
+    in Sardìnnia, poita ca creeus ca sa tennologia tenit un' arrolu parendi fronti
+    a is abisòngius de sa naturalesa e de sa sotziedadi.
 2.  Imperaus is tènnicas de sa scièntzia de is informus (*data science*) po
     amellorai su cumprendi sa naturalesa, economia, e sotziedadi de sa Sardìnnia
     poita ca pensaus ca un' adelantamentu diciosu podit benni de unu cumprendi
     cumpriu sceti.
 3.  Traballaus in su campu de sa *sustenibilidadi informàtica* (*computational
     sustainability*), poita ca creeus ca sa tennologia at a tenni un' arrolu de
-    importu in s' arresolvi is problemas de sa sotziedadi e de su logu, po unu
-    benidori sustenìbili.
+    importu in s' arresolvi is barrancus de sa sotziedadi e de su logu, castiendi
+    a unu benidori sustenìbili.
 4.  Abereus su traballu e is siendas a totu is disciplinas, poita ca pensaus
     ca sceti chi faeus unu traballu intra-disciplinàriu podeus arresolvi is
     barrancus de s' adelantamentu sustenìbili.
