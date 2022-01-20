@@ -23,4 +23,4 @@ Chi vuole contribuire può:
 * guardare i progetti che ci sono sull'apposita pagina del sito, o su
   [GitHub](https://github.com/sustainablesardinia) e fare un contributo nella
   stessa maniera di qualsiasi progetto *open-source*.
-* proporre un progetto, [inviando un'email all'indirizzo di Sustainable Sardinia](mailto:sardiniasustainability@mail.com).
+* proporre un progetto, [inviando un'email all'indirizzo di Sustainable Sardinia](mailto:sustsainablesardinia@mail.com).

@@ -25,4 +25,4 @@ Chi unu/a bolit agiudai podit:
   [GitHub](https://github.com/sustainablesardinia), e fai unu contributu de
   sa pròpriu manera de calisisiat progetu *open-source*.
 * proponni unu progetu, intreghendi [unu curreu letròngiu a s' indirìtziu de
-  Sustainable Sardinia](mailto:sardiniasustainability@mail.com).
+  Sustainable Sardinia](mailto:sustsainablesardinia@mail.com).

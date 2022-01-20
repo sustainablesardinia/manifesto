@@ -25,4 +25,4 @@ Whoever wants to help can:
   [GitHub](https://github.com/sustainablesardinia), and contribute in the
   same way as any open-source project.
 * propose a project, by [sending an email to Sustainable Sardinia's
-  address](mailto:sardiniasustainability@mail.com).
+  address](mailto:sustsainablesardinia@mail.com).
