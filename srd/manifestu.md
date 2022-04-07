@@ -26,13 +26,13 @@ A. Ita faeus e poita ddu faeus
 7.  Po assigurai ca is sfortzus nostrus funt cuncentraus asuba is tareas nostras,
     sigheus custa definidura: s' adelantamentu sustenìbili est s' adelantamentu
     chi
-    * cambiai calisisiat siendas (naturali o fata de òmini) cun siendas de
-      su pròpriu balori o de balori prus mannu.
-    * no scerat una calidadi de sienda po un' àtera,
-    * podit sighiri chena de acabu,
-    * no bolit agiudu de su stadu po sighiri,
+    * cambiat calisisiat siendas (naturali o fata de òmini) cun siendas de su pròpriu 
+      balori o de balori prus mannu.
+    * no scedat una calidadi de sienda po un’ àtera,
+    * podit sighiri in su tempus chena de acabai,
+    * po sighiri, no bolit agiudau de su stadu,
     * donat traballu a tempus prenu po sa genti in sa comunidadi,
-    * tenit dònnia gadàngiu de dinai aìnturu de sa comunidadi.
+    * mantennit dònnia gadàngiu de dinai aìnturu de sa comunidadi.
 8.  Agiudaus àteras organitzatzionis e fainas chi traballant de manera pari a su
     chi faeus nosu poita ca sa dìcia nostra benit de sa dìcia insoru puru.
 9.  Informaus is istitutzionis, poita si boleus assigurai chi tèngiant informus
